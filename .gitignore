@@ -1,0 +1,8 @@
+*.smc
+*.sfc
+*.srm
+*.sram
+*.sym
+*.usage
+*.exe
+asar.exe
