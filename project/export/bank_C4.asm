@@ -1377,7 +1377,7 @@ UNREACH_C40002:
         db $00                              ;C40AB3 |
         dl DATA8_DB04BC                     ;C40AB4 |
         db $00                              ;C40AB7 |
-        dl UNREACH_DB0650                   ;C40AB8 |
+        dl DATA8_DB0650                     ;C40AB8 |
         db $00                              ;C40ABB |
         dl DATA8_DCC03C                     ;C40ABC |
         db $00                              ;C40ABF |
@@ -1401,7 +1401,7 @@ UNREACH_C40002:
         db $00                              ;C40AE3 |
         dl DATA8_DC8E14                     ;C40AE4 |
         db $00                              ;C40AE7 |
-        dl UNREACH_DC02E2                   ;C40AE8 |
+        dl DATA8_DC02E2                     ;C40AE8 |
         db $00                              ;C40AEB |
         dl DATA8_D9D3C8                     ;C40AEC |
         db $00                              ;C40AEF |
@@ -1449,7 +1449,7 @@ UNREACH_C40002:
         db $00                              ;C40B43 |
         dl DATA8_DC68CA                     ;C40B44 |
         db $00                              ;C40B47 |
-        dl UNREACH_DC299A                   ;C40B48 |
+        dl DATA8_DC299A                     ;C40B48 |
         db $00                              ;C40B4B |
         dl DATA8_DC8EC6                     ;C40B4C |
         db $00                              ;C40B4F |
@@ -1473,7 +1473,7 @@ UNREACH_C40002:
         db $00                              ;C40B73 |
         dl DATA8_DC56C2                     ;C40B74 |
         db $00                              ;C40B77 |
-        dl UNREACH_DC8F78                   ;C40B78 |
+        dl DATA8_DC8F78                     ;C40B78 |
         db $00                              ;C40B7B |
         dl UNREACH_D18D6C                   ;C40B7C |
         db $00                              ;C40B7F |
@@ -2591,35 +2591,35 @@ UNREACH_C40002:
         db $00                              ;C4142F |
         dl DATA8_D02376                     ;C41430 |
         db $00                              ;C41433 |
-        dl UNREACH_D02D88                   ;C41434 |
+        dl DATA8_D02D88                     ;C41434 |
         db $00                              ;C41437 |
-        dl UNREACH_CF70B8                   ;C41438 |
+        dl DATA8_CF70B8                     ;C41438 |
         db $00                              ;C4143B |
-        dl UNREACH_CF116A                   ;C4143C |
+        dl DATA8_CF116A                     ;C4143C |
         db $00                              ;C4143F |
-        dl UNREACH_D04674                   ;C41440 |
+        dl DATA8_D04674                     ;C41440 |
         db $00                              ;C41443 |
-        dl UNREACH_CF80E0                   ;C41444 |
+        dl DATA8_CF80E0                     ;C41444 |
         db $00                              ;C41447 |
-        dl UNREACH_CF1736                   ;C41448 |
+        dl DATA8_CF1736                     ;C41448 |
         db $00                              ;C4144B |
-        dl UNREACH_CF397C                   ;C4144C |
+        dl DATA8_CF397C                     ;C4144C |
         db $00                              ;C4144F |
-        dl UNREACH_CF1D02                   ;C41450 |
+        dl DATA8_CF1D02                     ;C41450 |
         db $00                              ;C41453 |
-        dl UNREACH_CE7AFA                   ;C41454 |
+        dl DATA8_CE7AFA                     ;C41454 |
         db $00                              ;C41457 |
-        dl UNREACH_CE3E1A                   ;C41458 |
+        dl DATA8_CE3E1A                     ;C41458 |
         db $00                              ;C4145B |
-        dl UNREACH_CF22CE                   ;C4145C |
+        dl DATA8_CF22CE                     ;C4145C |
         db $00                              ;C4145F |
-        dl UNREACH_CF961A                   ;C41460 |
+        dl DATA8_CF961A                     ;C41460 |
         db $00                              ;C41463 |
-        dl UNREACH_CF8630                   ;C41464 |
+        dl DATA8_CF8630                     ;C41464 |
         db $00                              ;C41467 |
-        dl UNREACH_CFCACC                   ;C41468 |
+        dl DATA8_CFCACC                     ;C41468 |
         db $00                              ;C4146B |
-        dl UNREACH_CF9B64                   ;C4146C |
+        dl DATA8_CF9B64                     ;C4146C |
         db $00                              ;C4146F |
         dl DATA8_CC39AA                     ;C41470 |
         db $00                              ;C41473 |
@@ -2651,39 +2651,39 @@ UNREACH_C40002:
         db $00                              ;C414A7 |
         dl DATA8_CC40DA                     ;C414A8 |
         db $00                              ;C414AB |
-        dl UNREACH_D00000                   ;C414AC |
+        dl DATA8_D00000                     ;C414AC |
         db $00                              ;C414AF |
-        dl UNREACH_CF5AE6                   ;C414B0 |
+        dl DATA8_CF5AE6                     ;C414B0 |
         db $00                              ;C414B3 |
-        dl UNREACH_CEB6BA                   ;C414B4 |
+        dl DATA8_CEB6BA                     ;C414B4 |
         db $00                              ;C414B7 |
-        dl UNREACH_CE507E                   ;C414B8 |
+        dl DATA8_CE507E                     ;C414B8 |
         db $00                              ;C414BB |
-        dl UNREACH_CE5694                   ;C414BC |
+        dl DATA8_CE5694                     ;C414BC |
         db $00                              ;C414BF |
-        dl UNREACH_CED45A                   ;C414C0 |
+        dl DATA8_CED45A                     ;C414C0 |
         db $00                              ;C414C3 |
-        dl UNREACH_CEBCA8                   ;C414C4 |
+        dl DATA8_CEBCA8                     ;C414C4 |
         db $00                              ;C414C7 |
-        dl UNREACH_CC480A                   ;C414C8 |
+        dl DATA8_CC480A                     ;C414C8 |
         db $00                              ;C414CB |
-        dl UNREACH_CCB202                   ;C414CC |
+        dl DATA8_CCB202                     ;C414CC |
         db $00                              ;C414CF |
-        dl UNREACH_CE4446                   ;C414D0 |
+        dl DATA8_CE4446                     ;C414D0 |
         db $00                              ;C414D3 |
-        dl UNREACH_CDAF54                   ;C414D4 |
+        dl DATA8_CDAF54                     ;C414D4 |
         db $00                              ;C414D7 |
-        dl UNREACH_C7F962                   ;C414D8 |
+        dl DATA8_C7F962                     ;C414D8 |
         db $00                              ;C414DB |
-        dl UNREACH_CD8E7A                   ;C414DC |
+        dl DATA8_CD8E7A                     ;C414DC |
         db $00                              ;C414DF |
-        dl UNREACH_CE2564                   ;C414E0 |
+        dl DATA8_CE2564                     ;C414E0 |
         db $00                              ;C414E3 |
-        dl UNREACH_CD9512                   ;C414E4 |
+        dl DATA8_CD9512                     ;C414E4 |
         db $00                              ;C414E7 |
-        dl UNREACH_CD0DD8                   ;C414E8 |
+        dl DATA8_CD0DD8                     ;C414E8 |
         db $00                              ;C414EB |
-        dl UNREACH_CE0C96                   ;C414EC |
+        dl DATA8_CE0C96                     ;C414EC |
         db $00                              ;C414EF |
         dl DATA8_CB771C                     ;C414F0 |
         db $00                              ;C414F3 |
@@ -2719,45 +2719,45 @@ UNREACH_C40002:
         db $00                              ;C4152F |
         dl DATA8_CECE72                     ;C41530 |
         db $00                              ;C41533 |
-        dl UNREACH_CDE8FC                   ;C41534 |
+        dl DATA8_CDE8FC                     ;C41534 |
         db $00                              ;C41537 |
-        dl UNREACH_CE31C2                   ;C41538 |
+        dl DATA8_CE31C2                     ;C41538 |
         db $00                              ;C4153B |
-        dl UNREACH_CF05D2                   ;C4153C |
+        dl DATA8_CF05D2                     ;C4153C |
         db $00                              ;C4153F |
-        dl UNREACH_CFD528                   ;C41540 |
+        dl DATA8_CFD528                     ;C41540 |
         db $00                              ;C41543 |
-        dl UNREACH_CF7624                   ;C41544 |
+        dl DATA8_CF7624                     ;C41544 |
         db $00                              ;C41547 |
-        dl UNREACH_CF3F26                   ;C41548 |
+        dl DATA8_CF3F26                     ;C41548 |
         db $00                              ;C4154B |
-        dl UNREACH_CE5CAA                   ;C4154C |
+        dl DATA8_CE5CAA                     ;C4154C |
         db $00                              ;C4154F |
-        dl UNREACH_CF90D0                   ;C41550 |
+        dl DATA8_CF90D0                     ;C41550 |
         db $00                              ;C41553 |
-        dl UNREACH_D0636E                   ;C41554 |
+        dl DATA8_D0636E                     ;C41554 |
         db $00                              ;C41557 |
-        dl UNREACH_CE0000                   ;C41558 |
+        dl DATA8_CE0000                     ;C41558 |
         db $00                              ;C4155B |
-        dl UNREACH_CE62BA                   ;C4155C |
+        dl DATA8_CE62BA                     ;C4155C |
         db $00                              ;C4155F |
-        dl UNREACH_D02882                   ;C41560 |
+        dl DATA8_D02882                     ;C41560 |
         db $00                              ;C41563 |
-        dl UNREACH_CFC59E                   ;C41564 |
+        dl DATA8_CFC59E                     ;C41564 |
         db $00                              ;C41567 |
-        dl UNREACH_CF287E                   ;C41568 |
+        dl DATA8_CF287E                     ;C41568 |
         db $00                              ;C4156B |
-        dl UNREACH_CE68CA                   ;C4156C |
+        dl DATA8_CE68CA                     ;C4156C |
         db $00                              ;C4156F |
-        dl UNREACH_CF0B9E                   ;C41570 |
+        dl DATA8_CF0B9E                     ;C41570 |
         db $00                              ;C41573 |
-        dl UNREACH_CF2E28                   ;C41574 |
+        dl DATA8_CF2E28                     ;C41574 |
         db $00                              ;C41577 |
-        dl UNREACH_CF555E                   ;C41578 |
+        dl DATA8_CF555E                     ;C41578 |
         db $00                              ;C4157B |
-        dl UNREACH_CE6EDA                   ;C4157C |
+        dl DATA8_CE6EDA                     ;C4157C |
         db $00                              ;C4157F |
-        dl UNREACH_CF65E0                   ;C41580 |
+        dl DATA8_CF65E0                     ;C41580 |
         db $00                              ;C41583 |
         dl DATA8_D03C9A                     ;C41584 |
         db $00                              ;C41587 |
@@ -2859,65 +2859,65 @@ UNREACH_C40002:
         db $00                              ;C41647 |
         dl DATA8_D9973E                     ;C41648 |
         db $00                              ;C4164B |
-        dl UNREACH_CA98F0                   ;C4164C |
+        dl DATA8_CA98F0                     ;C4164C |
         db $00                              ;C4164F |
-        dl UNREACH_CAAA30                   ;C41650 |
+        dl DATA8_CAAA30                     ;C41650 |
         db $00                              ;C41653 |
-        dl UNREACH_CAB2AE                   ;C41654 |
+        dl DATA8_CAB2AE                     ;C41654 |
         db $00                              ;C41657 |
-        dl UNREACH_CABAEE                   ;C41658 |
+        dl DATA8_CABAEE                     ;C41658 |
         db $00                              ;C4165B |
-        dl UNREACH_CB7ECE                   ;C4165C |
+        dl DATA8_CB7ECE                     ;C4165C |
         db $00                              ;C4165F |
-        dl UNREACH_CBD168                   ;C41660 |
+        dl DATA8_CBD168                     ;C41660 |
         db $00                              ;C41663 |
-        dl UNREACH_CACB46                   ;C41664 |
+        dl DATA8_CACB46                     ;C41664 |
         db $00                              ;C41667 |
-        dl UNREACH_CAD35E                   ;C41668 |
+        dl DATA8_CAD35E                     ;C41668 |
         db $00                              ;C4166B |
-        dl UNREACH_CC6B7A                   ;C4166C |
+        dl DATA8_CC6B7A                     ;C4166C |
         db $00                              ;C4166F |
-        dl UNREACH_CBAC4C                   ;C41670 |
+        dl DATA8_CBAC4C                     ;C41670 |
         db $00                              ;C41673 |
-        dl UNREACH_CB57E2                   ;C41674 |
+        dl DATA8_CB57E2                     ;C41674 |
         db $00                              ;C41677 |
-        dl UNREACH_CADB76                   ;C41678 |
+        dl DATA8_CADB76                     ;C41678 |
         db $00                              ;C4167B |
-        dl UNREACH_CB4FEC                   ;C4167C |
+        dl DATA8_CB4FEC                     ;C4167C |
         db $00                              ;C4167F |
-        dl UNREACH_CB9D3C                   ;C41680 |
+        dl DATA8_CB9D3C                     ;C41680 |
         db $00                              ;C41683 |
-        dl UNREACH_CBD8C0                   ;C41684 |
+        dl DATA8_CBD8C0                     ;C41684 |
         db $00                              ;C41687 |
-        dl UNREACH_CC728E                   ;C41688 |
+        dl DATA8_CC728E                     ;C41688 |
         db $00                              ;C4168B |
-        dl UNREACH_CC15A2                   ;C4168C |
+        dl DATA8_CC15A2                     ;C4168C |
         db $00                              ;C4168F |
-        dl UNREACH_CC1CD8                   ;C41690 |
+        dl DATA8_CC1CD8                     ;C41690 |
         db $00                              ;C41693 |
-        dl UNREACH_CC240E                   ;C41694 |
+        dl DATA8_CC240E                     ;C41694 |
         db $00                              ;C41697 |
-        dl UNREACH_CC79A2                   ;C41698 |
+        dl DATA8_CC79A2                     ;C41698 |
         db $00                              ;C4169B |
-        dl UNREACH_CC80B6                   ;C4169C |
+        dl DATA8_CC80B6                     ;C4169C |
         db $00                              ;C4169F |
-        dl UNREACH_CBE018                   ;C416A0 |
+        dl DATA8_CBE018                     ;C416A0 |
         db $00                              ;C416A3 |
-        dl UNREACH_CC2B44                   ;C416A4 |
+        dl DATA8_CC2B44                     ;C416A4 |
         db $00                              ;C416A7 |
-        dl UNREACH_CA6360                   ;C416A8 |
+        dl DATA8_CA6360                     ;C416A8 |
         db $00                              ;C416AB |
-        dl UNREACH_CA7582                   ;C416AC |
+        dl DATA8_CA7582                     ;C416AC |
         db $00                              ;C416AF |
-        dl UNREACH_CA7E66                   ;C416B0 |
+        dl DATA8_CA7E66                     ;C416B0 |
         db $00                              ;C416B3 |
-        dl UNREACH_CA874A                   ;C416B4 |
+        dl DATA8_CA874A                     ;C416B4 |
         db $00                              ;C416B7 |
-        dl UNREACH_CA902E                   ;C416B8 |
+        dl DATA8_CA902E                     ;C416B8 |
         db $00                              ;C416BB |
-        dl UNREACH_CAA190                   ;C416BC |
+        dl DATA8_CAA190                     ;C416BC |
         db $00                              ;C416BF |
-        dl UNREACH_CA6C82                   ;C416C0 |
+        dl DATA8_CA6C82                     ;C416C0 |
         db $00                              ;C416C3 |
         dl DATA8_D2BA92                     ;C416C4 |
         db $00                              ;C416C7 |
@@ -3117,67 +3117,188 @@ UNREACH_C40002:
         db $00                              ;C4184B |
         dl DATA8_CFBB20                     ;C4184C |
         db $00                              ;C4184F |
+ 
+UNREACH_C41850:
         db $00,$00,$00,$00,$00,$00          ;C41850 |
         db $00,$00                          ;C41856 |
+PTR16_C41858:
+        dw UNREACH_C41850                   ;C41858 |
+        dw UNREACH_C42DEA                   ;C4185A |
+        dw UNREACH_C42E70                   ;C4185C |
+        dw UNREACH_C43FCE                   ;C4185E |
+        dw UNREACH_C42EF6                   ;C41860 |
+        dw UNREACH_C41850                   ;C41862 |
+        dw UNREACH_C42F7C                   ;C41864 |
+        dw UNREACH_C43002                   ;C41866 |
+        dw UNREACH_C43FCE                   ;C41868 |
+        dw UNREACH_C43088                   ;C4186A |
+        dw UNREACH_C41850                   ;C4186C |
+        dw UNREACH_C42B26                   ;C4186E |
+        dw UNREACH_C42B9C                   ;C41870 |
+        dw UNREACH_C43FCE                   ;C41872 |
+        dw UNREACH_C42C12                   ;C41874 |
+        dw UNREACH_C41850                   ;C41876 |
+        dw UNREACH_C42C88                   ;C41878 |
+        dw UNREACH_C42CFE                   ;C4187A |
+        dw UNREACH_C43FCE                   ;C4187C |
+        dw UNREACH_C42D74                   ;C4187E |
+        dw UNREACH_C41850                   ;C41880 |
+        dw UNREACH_C43B46                   ;C41882 |
+        dw UNREACH_C43BAC                   ;C41884 |
+        dw UNREACH_C43FCE                   ;C41886 |
+        dw UNREACH_C43C12                   ;C41888 |
+        dw UNREACH_C41850                   ;C4188A |
+        dw UNREACH_C43C78                   ;C4188C |
+        dw UNREACH_C43C9E                   ;C4188E |
+        dw UNREACH_C43FCE                   ;C41890 |
+        dw UNREACH_C43CC4                   ;C41892 |
+        dw UNREACH_C41850                   ;C41894 |
+        dw UNREACH_C433B6                   ;C41896 |
+        dw UNREACH_C43436                   ;C41898 |
+        dw UNREACH_C4527A                   ;C4189A |
+        dw UNREACH_C434AE                   ;C4189C |
+        dw UNREACH_C41850                   ;C4189E |
+        dw UNREACH_C43526                   ;C418A0 |
+        dw UNREACH_C435A6                   ;C418A2 |
+        dw UNREACH_C4527A                   ;C418A4 |
+        dw UNREACH_C4361E                   ;C418A6 |
+        dw UNREACH_C41850                   ;C418A8 |
+        dw DATA8_C419B4                     ;C418AA |
+        dw UNREACH_C41C32                   ;C418AC |
+        dw UNREACH_C4656C                   ;C418AE |
+        dw UNREACH_C41EB0                   ;C418B0 |
+        dw UNREACH_C4212E                   ;C418B2 |
+        dw UNREACH_C423AC                   ;C418B4 |
+        dw UNREACH_C4262A                   ;C418B6 |
+        dw UNREACH_C4656C                   ;C418B8 |
+        dw UNREACH_C428A8                   ;C418BA |
+        dw UNREACH_C41850                   ;C418BC |
+        dw UNREACH_C4310E                   ;C418BE |
+        dw UNREACH_C43186                   ;C418C0 |
+        dw UNREACH_C4656C                   ;C418C2 |
+        dw UNREACH_C431F6                   ;C418C4 |
+        dw UNREACH_C41850                   ;C418C6 |
+        dw UNREACH_C43266                   ;C418C8 |
+        dw UNREACH_C432D6                   ;C418CA |
+        dw UNREACH_C4656C                   ;C418CC |
+        dw UNREACH_C43346                   ;C418CE |
+        dw UNREACH_C41850                   ;C418D0 |
+        dw UNREACH_C43696                   ;C418D2 |
+        dw UNREACH_C4375E                   ;C418D4 |
+        dw UNREACH_C4656C                   ;C418D6 |
+        dw UNREACH_C43826                   ;C418D8 |
+        dw UNREACH_C41850                   ;C418DA |
+        dw UNREACH_C438EE                   ;C418DC |
+        dw UNREACH_C439B6                   ;C418DE |
+        dw UNREACH_C4656C                   ;C418E0 |
+        dw UNREACH_C43A7E                   ;C418E2 |
+        dw UNREACH_C41850                   ;C418E4 |
+        dw UNREACH_C43EC2                   ;C418E6 |
+        dw UNREACH_C43F48                   ;C418E8 |
+        dw UNREACH_C43FCE                   ;C418EA |
+        dw UNREACH_C41850                   ;C418EC |
+        dw UNREACH_C41850                   ;C418EE |
+        dw UNREACH_C43CEA                   ;C418F0 |
+        dw UNREACH_C43D60                   ;C418F2 |
+        dw UNREACH_C43FCE                   ;C418F4 |
+        dw UNREACH_C41850                   ;C418F6 |
+        dw UNREACH_C41850                   ;C418F8 |
+        dw UNREACH_C43DD6                   ;C418FA |
+        dw UNREACH_C43E4C                   ;C418FC |
+        dw UNREACH_C44160                   ;C418FE |
+        dw UNREACH_C41850                   ;C41900 |
+        dw UNREACH_C41850                   ;C41902 |
+        dw UNREACH_C44054                   ;C41904 |
+        dw UNREACH_C440DA                   ;C41906 |
+        dw UNREACH_C44160                   ;C41908 |
+        dw UNREACH_C41850                   ;C4190A |
+        dw UNREACH_C41850                   ;C4190C |
+        dw UNREACH_C450AA                   ;C4190E |
+        dw UNREACH_C45122                   ;C41910 |
+        dw UNREACH_C4527A                   ;C41912 |
+        dw UNREACH_C41850                   ;C41914 |
+        dw UNREACH_C41850                   ;C41916 |
+        dw UNREACH_C45192                   ;C41918 |
+        dw UNREACH_C4520A                   ;C4191A |
+        dw UNREACH_C4527A                   ;C4191C |
+        dw UNREACH_C41850                   ;C4191E |
+        dw UNREACH_C41850                   ;C41920 |
+        dw UNREACH_C44522                   ;C41922 |
+        dw UNREACH_C447A0                   ;C41924 |
+        dw UNREACH_C4656C                   ;C41926 |
+        dw UNREACH_C41850                   ;C41928 |
+        dw UNREACH_C41850                   ;C4192A |
+        dw UNREACH_C44A1E                   ;C4192C |
+        dw UNREACH_C44C9C                   ;C4192E |
+        dw UNREACH_C4656C                   ;C41930 |
+        dw UNREACH_C41850                   ;C41932 |
+        dw UNREACH_C41850                   ;C41934 |
+        dw UNREACH_C44F1A                   ;C41936 |
+        dw UNREACH_C44F82                   ;C41938 |
+        dw UNREACH_C4656C                   ;C4193A |
+        dw UNREACH_C41850                   ;C4193C |
+        dw UNREACH_C41850                   ;C4193E |
+        dw UNREACH_C4424C                   ;C41940 |
+        dw UNREACH_C441E6                   ;C41942 |
+        dw UNREACH_C4656C                   ;C41944 |
+        dw UNREACH_C41850                   ;C41946 |
+        dw UNREACH_C41850                   ;C41948 |
+        dw UNREACH_C442B2                   ;C4194A |
+        dw UNREACH_C44352                   ;C4194C |
+        dw UNREACH_C4656C                   ;C4194E |
+        dw UNREACH_C41850                   ;C41950 |
+        dw UNREACH_C41850                   ;C41952 |
+        dw UNREACH_C44482                   ;C41954 |
+        dw UNREACH_C443EA                   ;C41956 |
+        dw UNREACH_C4656C                   ;C41958 |
+        dw UNREACH_C41850                   ;C4195A |
+        dw UNREACH_C41850                   ;C4195C |
+        dw UNREACH_C44FE2                   ;C4195E |
+        dw UNREACH_C4504A                   ;C41960 |
+        dw UNREACH_C4656C                   ;C41962 |
+        dw UNREACH_C41850                   ;C41964 |
+        dw UNREACH_C41850                   ;C41966 |
+        dw UNREACH_C452F2                   ;C41968 |
+        dw UNREACH_C45368                   ;C4196A |
+        dw UNREACH_C4656C                   ;C4196C |
+        dw UNREACH_C4656C                   ;C4196E |
+        dw UNREACH_C4544A                   ;C41970 |
+        dw UNREACH_C454EA                   ;C41972 |
+        dw UNREACH_C4656C                   ;C41974 |
+        dw UNREACH_C4656C                   ;C41976 |
+        dw UNREACH_C4568A                   ;C41978 |
+        dw UNREACH_C456D8                   ;C4197A |
+        dw UNREACH_C4656C                   ;C4197C |
+        dw UNREACH_C4656C                   ;C4197E |
+        dw UNREACH_C4558A                   ;C41980 |
+        dw UNREACH_C4560A                   ;C41982 |
+        dw UNREACH_C4656C                   ;C41984 |
+        dw UNREACH_C4656C                   ;C41986 |
+        dw UNREACH_C45726                   ;C41988 |
+        dw UNREACH_C45856                   ;C4198A |
+        dw UNREACH_C4656C                   ;C4198C |
+        dw UNREACH_C4656C                   ;C4198E |
+        dw UNREACH_C453DE                   ;C41990 |
+        dw UNREACH_C453DE                   ;C41992 |
+        dw UNREACH_C4656C                   ;C41994 |
+        dw UNREACH_C4656C                   ;C41996 |
+        dw UNREACH_C4541C                   ;C41998 |
+        dw UNREACH_C4541C                   ;C4199A |
+        dw UNREACH_C4656C                   ;C4199C |
+        dw UNREACH_C4656C                   ;C4199E |
+        dw UNREACH_C45A12                   ;C419A0 |
+        dw UNREACH_C45A50                   ;C419A2 |
+        dw UNREACH_C45986                   ;C419A4 |
+        dw UNREACH_C459CC                   ;C419A6 |
+        dw UNREACH_C45B7A                   ;C419A8 |
+        dw UNREACH_C46050                   ;C419AA |
+        dw UNREACH_C45A8E                   ;C419AC |
+        dw UNREACH_C45B04                   ;C419AE |
+        dw UNREACH_C46526                   ;C419B0 |
+        dw UNREACH_C4657A                   ;C419B2 |
  
-UNREACH_C41858:
-        db $50,$18                          ;C41858 |
-        db $EA,$2D,$70,$2E,$CE,$3F,$F6,$2E  ;C4185A |
-        db $50,$18,$7C,$2F,$02,$30,$CE,$3F  ;C41862 |
-        db $88,$30,$50,$18,$26,$2B,$9C,$2B  ;C4186A |
-        db $CE,$3F,$12,$2C,$50,$18,$88,$2C  ;C41872 |
-        db $FE,$2C,$CE,$3F,$74,$2D,$50,$18  ;C4187A |
-        db $46,$3B,$AC,$3B                  ;C41882 |
-        db $CE,$3F                          ;C41886 |
-        db $12,$3C,$50,$18,$78,$3C,$9E,$3C  ;C41888 |
-        db $CE,$3F                          ;C41890 |
-        db $C4,$3C,$50,$18,$B6,$33,$36,$34  ;C41892 |
-        db $7A,$52,$AE,$34,$50,$18,$26,$35  ;C4189A |
-        db $A6,$35,$7A,$52,$1E,$36,$50,$18  ;C418A2 |
-        db $B4,$19,$32,$1C,$6C,$65,$B0,$1E  ;C418AA |
-        db $2E,$21,$AC,$23,$2A,$26,$6C,$65  ;C418B2 |
-        db $A8,$28,$50,$18,$0E,$31,$86,$31  ;C418BA |
-        db $6C,$65,$F6,$31,$50,$18,$66,$32  ;C418C2 |
-        db $D6,$32,$6C,$65,$46,$33,$50,$18  ;C418CA |
-        db $96,$36,$5E,$37,$6C,$65,$26,$38  ;C418D2 |
-        db $50,$18,$EE,$38,$B6,$39,$6C,$65  ;C418DA |
-        db $7E,$3A,$50,$18                  ;C418E2 |
-        db $C2,$3E,$48,$3F,$CE,$3F,$50,$18  ;C418E6 |
-        db $50,$18,$EA,$3C,$60,$3D,$CE,$3F  ;C418EE |
-        db $50,$18,$50,$18,$D6,$3D,$4C,$3E  ;C418F6 |
-        db $60,$41,$50,$18,$50,$18,$54,$40  ;C418FE |
-        db $DA,$40,$60,$41,$50,$18,$50,$18  ;C41906 |
-        db $AA,$50,$22,$51,$7A,$52,$50,$18  ;C4190E |
-        db $50,$18,$92,$51,$0A,$52,$7A,$52  ;C41916 |
-        db $50,$18,$50,$18,$22,$45,$A0,$47  ;C4191E |
-        db $6C,$65,$50,$18,$50,$18,$1E,$4A  ;C41926 |
-        db $9C,$4C,$6C,$65,$50,$18,$50,$18  ;C4192E |
-        db $1A,$4F,$82,$4F,$6C,$65,$50,$18  ;C41936 |
-        db $50,$18,$4C,$42,$E6,$41,$6C,$65  ;C4193E |
-        db $50,$18,$50,$18,$B2,$42,$52,$43  ;C41946 |
-        db $6C,$65,$50,$18,$50,$18,$82,$44  ;C4194E |
-        db $EA,$43,$6C,$65,$50,$18,$50,$18  ;C41956 |
-        db $E2,$4F,$4A,$50,$6C,$65,$50,$18  ;C4195E |
-        db $50,$18                          ;C41966 |
-        db $F2,$52,$68,$53                  ;C41968 |
-        db $6C,$65,$6C,$65                  ;C4196C |
-        db $4A,$54,$EA,$54                  ;C41970 |
-        db $6C,$65,$6C,$65                  ;C41974 |
-        db $8A,$56,$D8,$56                  ;C41978 |
-        db $6C,$65,$6C,$65                  ;C4197C |
-        db $8A,$55                          ;C41980 |
-        db $0A,$56,$6C,$65,$6C,$65          ;C41982 |
-        db $26,$57                          ;C41988 |
-        db $56,$58,$6C,$65,$6C,$65          ;C4198A |
-        db $DE,$53,$DE,$53                  ;C41990 |
-        db $6C,$65,$6C,$65                  ;C41994 |
-        db $1C,$54,$1C,$54                  ;C41998 |
-        db $6C,$65,$6C,$65,$12,$5A,$50,$5A  ;C4199C |
-        db $86,$59,$CC,$59                  ;C419A4 |
-        db $7A,$5B,$50,$60,$8E,$5A,$04,$5B  ;C419A8 |
-        db $26,$65,$7A,$65                  ;C419B0 |
-        db $00,$00                          ;C419B4 |
-        db $00,$00,$07,$00,$94,$03          ;C419B6 |
+DATA8_C419B4:
+        db $00,$00,$00,$00,$07,$00,$94,$03  ;C419B4 |
         db $00,$00                          ;C419BC |
         db $00,$00,$07,$00,$98,$03          ;C419BE |
         db $00,$00                          ;C419C4 |
@@ -3330,9 +3451,15 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$E0,$05          ;C41C0E |
         db $00,$00                          ;C41C14 |
         db $00,$00,$07,$00,$E4,$05          ;C41C16 |
-        db $00,$00,$00,$00,$07,$00,$C8,$05  ;C41C1C |
-        db $00,$00,$00,$00,$07,$00,$C4,$05  ;C41C24 |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C41C2C |
+        db $00,$00                          ;C41C1C |
+        db $00,$00,$07,$00,$C8,$05          ;C41C1E |
+        db $00,$00                          ;C41C24 |
+        db $00,$00,$07,$00,$C4,$05          ;C41C26 |
+        db $00,$00                          ;C41C2C |
+        db $00,$00,$FE,$FF                  ;C41C2E |
+ 
+UNREACH_C41C32:
+        db $00,$00                          ;C41C32 |
         db $00,$00,$07,$00,$E4,$03          ;C41C34 |
         db $00,$00                          ;C41C3A |
         db $00,$00,$07,$00,$E8,$03          ;C41C3C |
@@ -3486,9 +3613,15 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$04,$06          ;C41E8C |
         db $00,$00                          ;C41E92 |
         db $00,$00,$07,$00,$08,$06          ;C41E94 |
-        db $00,$00,$00,$00,$07,$00,$EC,$05  ;C41E9A |
-        db $00,$00,$00,$00,$07,$00,$E8,$05  ;C41EA2 |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C41EAA |
+        db $00,$00                          ;C41E9A |
+        db $00,$00,$07,$00,$EC,$05          ;C41E9C |
+        db $00,$00                          ;C41EA2 |
+        db $00,$00,$07,$00,$E8,$05          ;C41EA4 |
+        db $00,$00                          ;C41EAA |
+        db $00,$00,$FE,$FF                  ;C41EAC |
+ 
+UNREACH_C41EB0:
+        db $00,$00                          ;C41EB0 |
         db $00,$00,$07,$00,$34,$04          ;C41EB2 |
         db $00,$00                          ;C41EB8 |
         db $00,$00,$07,$00,$38,$04          ;C41EBA |
@@ -3642,9 +3775,15 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$28,$06          ;C4210A |
         db $00,$00                          ;C42110 |
         db $00,$00,$07,$00,$2C,$06          ;C42112 |
-        db $00,$00,$00,$00,$07,$00,$10,$06  ;C42118 |
-        db $00,$00,$00,$00,$07,$00,$0C,$06  ;C42120 |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C42128 |
+        db $00,$00                          ;C42118 |
+        db $00,$00,$07,$00,$10,$06          ;C4211A |
+        db $00,$00                          ;C42120 |
+        db $00,$00,$07,$00,$0C,$06          ;C42122 |
+        db $00,$00                          ;C42128 |
+        db $00,$00,$FE,$FF                  ;C4212A |
+ 
+UNREACH_C4212E:
+        db $00,$00                          ;C4212E |
         db $00,$00,$07,$00,$84,$04          ;C42130 |
         db $00,$00                          ;C42136 |
         db $00,$00,$07,$00,$88,$04          ;C42138 |
@@ -3762,7 +3901,8 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$18,$06          ;C422F8 |
         db $00,$00                          ;C422FE |
         db $00,$00,$07,$00,$1C,$06          ;C42300 |
-        db $00,$00,$00,$00,$07,$00,$20,$06  ;C42306 |
+        db $00,$00                          ;C42306 |
+        db $00,$00,$07,$00,$20,$06          ;C42308 |
         db $00,$00,$00,$00,$07,$00,$24,$06  ;C4230E |
         db $00,$00,$00,$00,$07,$00,$28,$06  ;C42316 |
         db $00,$00,$00,$00,$07,$00,$2C,$06  ;C4231E |
@@ -3782,7 +3922,10 @@ UNREACH_C41858:
         db $00,$00,$00,$00,$07,$00,$2C,$06  ;C4238E |
         db $00,$00,$00,$00,$07,$00,$10,$06  ;C42396 |
         db $00,$00,$00,$00,$07,$00,$0C,$06  ;C4239E |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C423A6 |
+        db $00,$00,$00,$00,$FE,$FF          ;C423A6 |
+ 
+UNREACH_C423AC:
+        db $00,$00                          ;C423AC |
         db $00,$00,$07,$00,$D4,$04          ;C423AE |
         db $00,$00                          ;C423B4 |
         db $00,$00,$07,$00,$D8,$04          ;C423B6 |
@@ -3942,6 +4085,8 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$30,$06          ;C4261E |
         db $00,$00                          ;C42624 |
         db $00,$00,$FE,$FF                  ;C42626 |
+ 
+UNREACH_C4262A:
         db $00,$00                          ;C4262A |
         db $00,$00,$07,$00,$24,$05          ;C4262C |
         db $00,$00                          ;C42632 |
@@ -4102,6 +4247,8 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$54,$06          ;C4289C |
         db $00,$00                          ;C428A2 |
         db $00,$00,$FE,$FF                  ;C428A4 |
+ 
+UNREACH_C428A8:
         db $00,$00                          ;C428A8 |
         db $00,$00,$07,$00,$74,$05          ;C428AA |
         db $00,$00                          ;C428B0 |
@@ -4262,6 +4409,8 @@ UNREACH_C41858:
         db $00,$00,$07,$00,$78,$06          ;C42B1A |
         db $00,$00                          ;C42B20 |
         db $00,$00,$FE,$FF                  ;C42B22 |
+ 
+UNREACH_C42B26:
         db $00,$00                          ;C42B26 |
         db $00,$00,$00,$00,$84,$01,$25,$B0  ;C42B28 |
         db $01,$00,$02,$00,$88,$01          ;C42B30 |
@@ -4290,6 +4439,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$B8,$01          ;C42B90 |
         db $00,$00                          ;C42B96 |
         db $00,$00,$FE,$FF                  ;C42B98 |
+ 
+UNREACH_C42B9C:
         db $00,$00                          ;C42B9C |
         db $00,$00,$00,$00,$BC,$01          ;C42B9E |
         db $00,$00                          ;C42BA4 |
@@ -4320,6 +4471,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$F0,$01          ;C42C06 |
         db $00,$00                          ;C42C0C |
         db $00,$00,$FE,$FF                  ;C42C0E |
+ 
+UNREACH_C42C12:
         db $00,$00                          ;C42C12 |
         db $00,$00,$00,$00,$F4,$01          ;C42C14 |
         db $00,$00                          ;C42C1A |
@@ -4350,6 +4503,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$28,$02          ;C42C7C |
         db $00,$00                          ;C42C82 |
         db $00,$00,$FE,$FF                  ;C42C84 |
+ 
+UNREACH_C42C88:
         db $00,$00                          ;C42C88 |
         db $00,$00,$00,$00,$2C,$02,$25,$B0  ;C42C8A |
         db $01,$00,$02,$00,$30,$02          ;C42C92 |
@@ -4378,6 +4533,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$60,$02          ;C42CF2 |
         db $00,$00                          ;C42CF8 |
         db $00,$00,$FE,$FF                  ;C42CFA |
+ 
+UNREACH_C42CFE:
         db $00,$00                          ;C42CFE |
         db $00,$00,$00,$00,$64,$02          ;C42D00 |
         db $00,$00                          ;C42D06 |
@@ -4408,6 +4565,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$98,$02          ;C42D68 |
         db $00,$00                          ;C42D6E |
         db $00,$00,$FE,$FF                  ;C42D70 |
+ 
+UNREACH_C42D74:
         db $00,$00                          ;C42D74 |
         db $00,$00,$00,$00,$9C,$02          ;C42D76 |
         db $00,$00                          ;C42D7C |
@@ -4438,6 +4597,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$D0,$02          ;C42DDE |
         db $00,$00                          ;C42DE4 |
         db $00,$00,$FE,$FF                  ;C42DE6 |
+ 
+UNREACH_C42DEA:
         db $00,$00                          ;C42DEA |
         db $00,$00,$00,$00,$04,$00          ;C42DEC |
         db $00,$00                          ;C42DF2 |
@@ -4470,6 +4631,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$40,$00          ;C42E64 |
         db $00,$00                          ;C42E6A |
         db $00,$00,$FE,$FF                  ;C42E6C |
+ 
+UNREACH_C42E70:
         db $00,$00                          ;C42E70 |
         db $00,$00,$00,$00,$44,$00          ;C42E72 |
         db $00,$00                          ;C42E78 |
@@ -4504,6 +4667,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$80,$00          ;C42EEA |
         db $00,$00                          ;C42EF0 |
         db $00,$00,$FE,$FF                  ;C42EF2 |
+ 
+UNREACH_C42EF6:
         db $00,$00                          ;C42EF6 |
         db $00,$00,$00,$00,$84,$00          ;C42EF8 |
         db $00,$00                          ;C42EFE |
@@ -4538,6 +4703,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$C0,$00          ;C42F70 |
         db $00,$00                          ;C42F76 |
         db $00,$00,$FE,$FF                  ;C42F78 |
+ 
+UNREACH_C42F7C:
         db $00,$00                          ;C42F7C |
         db $00,$00,$00,$00,$C4,$00          ;C42F7E |
         db $00,$00                          ;C42F84 |
@@ -4570,6 +4737,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$00,$01          ;C42FF6 |
         db $00,$00                          ;C42FFC |
         db $00,$00,$FE,$FF                  ;C42FFE |
+ 
+UNREACH_C43002:
         db $00,$00                          ;C43002 |
         db $00,$00,$00,$00,$04,$01          ;C43004 |
         db $00,$00                          ;C4300A |
@@ -4604,6 +4773,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$40,$01          ;C4307C |
         db $00,$00                          ;C43082 |
         db $00,$00,$FE,$FF                  ;C43084 |
+ 
+UNREACH_C43088:
         db $00,$00                          ;C43088 |
         db $00,$00,$00,$00,$44,$01          ;C4308A |
         db $00,$00                          ;C43090 |
@@ -4638,6 +4809,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$80,$01          ;C43102 |
         db $00,$00                          ;C43108 |
         db $00,$00,$FE,$FF                  ;C4310A |
+ 
+UNREACH_C4310E:
         db $00,$00                          ;C4310E |
         db $00,$00,$01,$00,$94,$03,$70,$B0  ;C43110 |
         db $01,$00,$01,$00,$04,$08          ;C43118 |
@@ -4666,6 +4839,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43176 |
         db $00,$00,$01,$00,$E0,$03,$AE,$B1  ;C43178 |
         db $01,$00,$01,$00,$E0,$03          ;C43180 |
+ 
+UNREACH_C43186:
         db $00,$00                          ;C43186 |
         db $00,$00,$01,$00,$E4,$03          ;C43188 |
         db $00,$00                          ;C4318E |
@@ -4694,6 +4869,8 @@ UNREACH_C41858:
         db $00,$00,$01,$00,$60,$08          ;C431E8 |
         db $00,$00                          ;C431EE |
         db $00,$00,$FF,$00,$30,$04          ;C431F0 |
+ 
+UNREACH_C431F6:
         db $00,$00                          ;C431F6 |
         db $00,$00,$01,$00,$34,$04          ;C431F8 |
         db $00,$00                          ;C431FE |
@@ -4722,6 +4899,8 @@ UNREACH_C41858:
         db $00,$00,$01,$00,$90,$08          ;C43258 |
         db $00,$00                          ;C4325E |
         db $00,$00,$FF,$00,$80,$04          ;C43260 |
+ 
+UNREACH_C43266:
         db $00,$00                          ;C43266 |
         db $00,$00,$01,$00,$D4,$04,$70,$B0  ;C43268 |
         db $01,$00,$01,$00,$94,$08          ;C43270 |
@@ -4748,6 +4927,8 @@ UNREACH_C41858:
         db $00,$00                          ;C432C6 |
         db $00,$00,$01,$00,$C0,$08,$AE,$B1  ;C432C8 |
         db $01,$00,$01,$00,$20,$05          ;C432D0 |
+ 
+UNREACH_C432D6:
         db $00,$00                          ;C432D6 |
         db $00,$00,$01,$00,$24,$05          ;C432D8 |
         db $00,$00                          ;C432DE |
@@ -4775,6 +4956,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43336 |
         db $00,$00,$01,$00,$F0,$08          ;C43338 |
         db $00,$00,$00,$00,$FF,$00,$70,$05  ;C4333E |
+ 
+UNREACH_C43346:
         db $00,$00                          ;C43346 |
         db $00,$00,$01,$00,$74,$05          ;C43348 |
         db $00,$00                          ;C4334E |
@@ -4802,6 +4985,8 @@ UNREACH_C41858:
         db $00,$00                          ;C433A6 |
         db $00,$00,$01,$00,$20,$09          ;C433A8 |
         db $00,$00,$00,$00,$FF,$00,$C0,$05  ;C433AE |
+ 
+UNREACH_C433B6:
         db $00,$00                          ;C433B6 |
         db $00,$00,$02,$00,$9C,$06          ;C433B8 |
         db $00,$00                          ;C433BE |
@@ -4832,6 +5017,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43426 |
         db $00,$00,$02,$00,$D4,$06,$AE,$B1  ;C43428 |
         db $01,$00,$02,$00,$D4,$06          ;C43430 |
+ 
+UNREACH_C43436:
         db $00,$00                          ;C43436 |
         db $00,$00,$02,$00,$D8,$06          ;C43438 |
         db $00,$00                          ;C4343E |
@@ -4862,6 +5049,8 @@ UNREACH_C41858:
         db $00,$00,$01,$00,$0C,$07          ;C434A0 |
         db $00,$00                          ;C434A6 |
         db $00,$00,$FF,$00,$10,$07          ;C434A8 |
+ 
+UNREACH_C434AE:
         db $00,$00                          ;C434AE |
         db $00,$00,$02,$00,$14,$07          ;C434B0 |
         db $00,$00                          ;C434B6 |
@@ -4892,6 +5081,8 @@ UNREACH_C41858:
         db $00,$00,$01,$00,$48,$07          ;C43518 |
         db $00,$00                          ;C4351E |
         db $00,$00,$FF,$00,$4C,$07          ;C43520 |
+ 
+UNREACH_C43526:
         db $00,$00                          ;C43526 |
         db $00,$00,$02,$00,$50,$07          ;C43528 |
         db $00,$00                          ;C4352E |
@@ -4922,6 +5113,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43596 |
         db $00,$00,$02,$00,$88,$07,$AE,$B1  ;C43598 |
         db $01,$00,$02,$00,$88,$07          ;C435A0 |
+ 
+UNREACH_C435A6:
         db $00,$00                          ;C435A6 |
         db $00,$00,$02,$00,$8C,$07          ;C435A8 |
         db $00,$00                          ;C435AE |
@@ -4952,6 +5145,8 @@ UNREACH_C41858:
         db $00,$00,$01,$00,$C0,$07          ;C43610 |
         db $00,$00                          ;C43616 |
         db $00,$00,$FF,$00,$C4,$07          ;C43618 |
+ 
+UNREACH_C4361E:
         db $00,$00                          ;C4361E |
         db $00,$00,$02,$00,$C8,$07          ;C43620 |
         db $00,$00                          ;C43626 |
@@ -4982,6 +5177,8 @@ UNREACH_C41858:
         db $00,$00,$01,$00,$FC,$07          ;C43688 |
         db $00,$00                          ;C4368E |
         db $00,$00,$FF,$00,$00,$08          ;C43690 |
+ 
+UNREACH_C43696:
         db $00,$00                          ;C43696 |
         db $00,$00,$03,$00,$24,$09          ;C43698 |
         db $00,$00                          ;C4369E |
@@ -5029,6 +5226,8 @@ UNREACH_C41858:
         db $00,$00                          ;C4374E |
         db $00,$00,$04,$00,$84,$0A,$AE,$B1  ;C43750 |
         db $01,$00,$04,$00,$88,$0A          ;C43758 |
+ 
+UNREACH_C4375E:
         db $00,$00                          ;C4375E |
         db $00,$00,$03,$00,$58,$09          ;C43760 |
         db $00,$00                          ;C43766 |
@@ -5078,6 +5277,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43816 |
         db $00,$00,$04,$00,$B4,$0A          ;C43818 |
         db $00,$00,$00,$00,$FF,$00,$B8,$0A  ;C4381E |
+ 
+UNREACH_C43826:
         db $00,$00                          ;C43826 |
         db $00,$00,$03,$00,$8C,$09          ;C43828 |
         db $00,$00                          ;C4382E |
@@ -5127,6 +5328,8 @@ UNREACH_C41858:
         db $00,$00                          ;C438DE |
         db $00,$00,$04,$00,$E4,$0A          ;C438E0 |
         db $00,$00,$00,$00,$FF,$00,$E8,$0A  ;C438E6 |
+ 
+UNREACH_C438EE:
         db $00,$00                          ;C438EE |
         db $00,$00,$03,$00,$C0,$09          ;C438F0 |
         db $00,$00                          ;C438F6 |
@@ -5174,6 +5377,8 @@ UNREACH_C41858:
         db $00,$00                          ;C439A6 |
         db $00,$00,$04,$00,$14,$0B,$AE,$B1  ;C439A8 |
         db $01,$00,$04,$00,$18,$0B          ;C439B0 |
+ 
+UNREACH_C439B6:
         db $00,$00                          ;C439B6 |
         db $00,$00,$03,$00,$F4,$09          ;C439B8 |
         db $00,$00                          ;C439BE |
@@ -5223,6 +5428,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43A6E |
         db $00,$00,$04,$00,$44,$0B          ;C43A70 |
         db $00,$00,$00,$00,$FF,$00,$48,$0B  ;C43A76 |
+ 
+UNREACH_C43A7E:
         db $00,$00                          ;C43A7E |
         db $00,$00,$03,$00,$28,$0A          ;C43A80 |
         db $00,$00                          ;C43A86 |
@@ -5272,6 +5479,8 @@ UNREACH_C41858:
         db $00,$00                          ;C43B36 |
         db $00,$00,$04,$00,$74,$0B          ;C43B38 |
         db $00,$00,$00,$00,$FF,$00,$78,$0B  ;C43B3E |
+ 
+UNREACH_C43B46:
         db $00,$00                          ;C43B46 |
         db $00,$00,$00,$00,$D4,$02          ;C43B48 |
         db $00,$00                          ;C43B4E |
@@ -5296,6 +5505,8 @@ UNREACH_C41858:
         db $01,$00,$02,$00,$00,$03          ;C43BA0 |
         db $00,$00                          ;C43BA6 |
         db $00,$00,$FE,$FF                  ;C43BA8 |
+ 
+UNREACH_C43BAC:
         db $00,$00                          ;C43BAC |
         db $00,$00,$00,$00,$04,$03          ;C43BAE |
         db $00,$00                          ;C43BB4 |
@@ -5322,6 +5533,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$30,$03          ;C43C06 |
         db $00,$00                          ;C43C0C |
         db $00,$00,$FE,$FF                  ;C43C0E |
+ 
+UNREACH_C43C12:
         db $00,$00                          ;C43C12 |
         db $00,$00,$00,$00,$34,$03          ;C43C14 |
         db $00,$00                          ;C43C1A |
@@ -5348,6 +5561,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$60,$03          ;C43C6C |
         db $00,$00                          ;C43C72 |
         db $00,$00,$FE,$FF                  ;C43C74 |
+ 
+UNREACH_C43C78:
         db $00,$00                          ;C43C78 |
         db $00,$00,$0A,$00,$64,$03          ;C43C7A |
         db $00,$00                          ;C43C80 |
@@ -5358,6 +5573,8 @@ UNREACH_C41858:
         db $00,$00,$0A,$00,$70,$03          ;C43C92 |
         db $00,$00                          ;C43C98 |
         db $00,$00,$FE,$FF                  ;C43C9A |
+ 
+UNREACH_C43C9E:
         db $00,$00                          ;C43C9E |
         db $00,$00,$0A,$00,$74,$03          ;C43CA0 |
         db $00,$00                          ;C43CA6 |
@@ -5368,6 +5585,8 @@ UNREACH_C41858:
         db $00,$00,$0A,$00,$80,$03          ;C43CB8 |
         db $00,$00                          ;C43CBE |
         db $00,$00,$FE,$FF                  ;C43CC0 |
+ 
+UNREACH_C43CC4:
         db $00,$00                          ;C43CC4 |
         db $00,$00,$0A,$00,$84,$03          ;C43CC6 |
         db $00,$00                          ;C43CCC |
@@ -5378,6 +5597,8 @@ UNREACH_C41858:
         db $00,$00,$0A,$00,$90,$03          ;C43CDE |
         db $00,$00                          ;C43CE4 |
         db $00,$00,$FE,$FF                  ;C43CE6 |
+ 
+UNREACH_C43CEA:
         db $00,$00,$00,$00,$00,$00,$84,$0F  ;C43CEA |
         db $25,$B0,$01,$00,$02,$00,$88,$0F  ;C43CF2 |
         db $00,$00,$00,$00,$02,$00,$8C,$0F  ;C43CFA |
@@ -5392,51 +5613,60 @@ UNREACH_C41858:
         db $00,$00,$00,$00,$02,$00,$B0,$0F  ;C43D42 |
         db $00,$00,$00,$00,$02,$00,$B4,$0F  ;C43D4A |
         db $00,$00,$00,$00,$02,$00,$B8,$0F  ;C43D52 |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C43D5A |
-        db $00,$00,$00,$00,$4C,$0F,$00,$00  ;C43D62 |
-        db $00,$00,$02,$00,$50,$0F,$00,$00  ;C43D6A |
-        db $00,$00,$02,$00,$54,$0F,$00,$00  ;C43D72 |
-        db $00,$00,$02,$00,$58,$0F,$00,$00  ;C43D7A |
-        db $00,$00,$02,$00,$5C,$0F,$00,$00  ;C43D82 |
-        db $00,$00,$02,$00,$60,$0F,$00,$00  ;C43D8A |
-        db $00,$00,$02,$00,$64,$0F,$00,$00  ;C43D92 |
-        db $00,$00,$02,$00,$68,$0F,$00,$00  ;C43D9A |
-        db $00,$00,$02,$00,$6C,$0F,$00,$00  ;C43DA2 |
-        db $00,$00,$02,$00,$70,$0F,$00,$00  ;C43DAA |
-        db $00,$00,$02,$00,$74,$0F,$00,$00  ;C43DB2 |
-        db $00,$00,$02,$00,$78,$0F,$00,$00  ;C43DBA |
-        db $00,$00,$02,$00,$7C,$0F,$00,$00  ;C43DC2 |
-        db $00,$00,$02,$00,$80,$0F,$00,$00  ;C43DCA |
-        db $00,$00,$FE,$FF,$00,$00,$00,$00  ;C43DD2 |
-        db $00,$00,$F4,$0F,$25,$B0,$01,$00  ;C43DDA |
-        db $02,$00,$F8,$0F,$00,$00,$00,$00  ;C43DE2 |
-        db $02,$00,$FC,$0F,$00,$00,$00,$00  ;C43DEA |
-        db $02,$00,$00,$10,$00,$00,$00,$00  ;C43DF2 |
-        db $02,$00,$04,$10,$00,$00,$00,$00  ;C43DFA |
-        db $02,$00,$08,$10,$00,$00,$00,$00  ;C43E02 |
-        db $02,$00,$0C,$10,$00,$00,$00,$00  ;C43E0A |
-        db $02,$00,$10,$10,$25,$B0,$01,$00  ;C43E12 |
-        db $02,$00,$14,$10,$00,$00,$00,$00  ;C43E1A |
-        db $02,$00,$18,$10,$00,$00,$00,$00  ;C43E22 |
-        db $02,$00,$1C,$10,$00,$00,$00,$00  ;C43E2A |
-        db $02,$00,$20,$10,$00,$00,$00,$00  ;C43E32 |
-        db $02,$00,$24,$10,$00,$00,$00,$00  ;C43E3A |
-        db $02,$00,$28,$10,$00,$00,$00,$00  ;C43E42 |
-        db $FE,$FF,$00,$00,$00,$00,$00,$00  ;C43E4A |
-        db $BC,$0F,$00,$00,$00,$00,$02,$00  ;C43E52 |
-        db $C0,$0F,$00,$00,$00,$00,$02,$00  ;C43E5A |
-        db $C4,$0F,$00,$00,$00,$00,$02,$00  ;C43E62 |
-        db $C8,$0F,$00,$00,$00,$00,$02,$00  ;C43E6A |
-        db $CC,$0F,$00,$00,$00,$00,$02,$00  ;C43E72 |
-        db $D0,$0F,$00,$00,$00,$00,$02,$00  ;C43E7A |
-        db $D4,$0F,$00,$00,$00,$00,$02,$00  ;C43E82 |
-        db $D8,$0F,$00,$00,$00,$00,$02,$00  ;C43E8A |
-        db $DC,$0F,$00,$00,$00,$00,$02,$00  ;C43E92 |
-        db $E0,$0F,$00,$00,$00,$00,$02,$00  ;C43E9A |
-        db $E4,$0F,$00,$00,$00,$00,$02,$00  ;C43EA2 |
-        db $E8,$0F,$00,$00,$00,$00,$02,$00  ;C43EAA |
-        db $EC,$0F,$00,$00,$00,$00,$02,$00  ;C43EB2 |
-        db $F0,$0F,$00,$00,$00,$00,$FE,$FF  ;C43EBA |
+        db $00,$00,$00,$00,$FE,$FF          ;C43D5A |
+ 
+UNREACH_C43D60:
+        db $00,$00,$00,$00,$00,$00,$4C,$0F  ;C43D60 |
+        db $00,$00,$00,$00,$02,$00,$50,$0F  ;C43D68 |
+        db $00,$00,$00,$00,$02,$00,$54,$0F  ;C43D70 |
+        db $00,$00,$00,$00,$02,$00,$58,$0F  ;C43D78 |
+        db $00,$00,$00,$00,$02,$00,$5C,$0F  ;C43D80 |
+        db $00,$00,$00,$00,$02,$00,$60,$0F  ;C43D88 |
+        db $00,$00,$00,$00,$02,$00,$64,$0F  ;C43D90 |
+        db $00,$00,$00,$00,$02,$00,$68,$0F  ;C43D98 |
+        db $00,$00,$00,$00,$02,$00,$6C,$0F  ;C43DA0 |
+        db $00,$00,$00,$00,$02,$00,$70,$0F  ;C43DA8 |
+        db $00,$00,$00,$00,$02,$00,$74,$0F  ;C43DB0 |
+        db $00,$00,$00,$00,$02,$00,$78,$0F  ;C43DB8 |
+        db $00,$00,$00,$00,$02,$00,$7C,$0F  ;C43DC0 |
+        db $00,$00,$00,$00,$02,$00,$80,$0F  ;C43DC8 |
+        db $00,$00,$00,$00,$FE,$FF          ;C43DD0 |
+ 
+UNREACH_C43DD6:
+        db $00,$00,$00,$00,$00,$00,$F4,$0F  ;C43DD6 |
+        db $25,$B0,$01,$00,$02,$00,$F8,$0F  ;C43DDE |
+        db $00,$00,$00,$00,$02,$00,$FC,$0F  ;C43DE6 |
+        db $00,$00,$00,$00,$02,$00,$00,$10  ;C43DEE |
+        db $00,$00,$00,$00,$02,$00,$04,$10  ;C43DF6 |
+        db $00,$00,$00,$00,$02,$00,$08,$10  ;C43DFE |
+        db $00,$00,$00,$00,$02,$00,$0C,$10  ;C43E06 |
+        db $00,$00,$00,$00,$02,$00,$10,$10  ;C43E0E |
+        db $25,$B0,$01,$00,$02,$00,$14,$10  ;C43E16 |
+        db $00,$00,$00,$00,$02,$00,$18,$10  ;C43E1E |
+        db $00,$00,$00,$00,$02,$00,$1C,$10  ;C43E26 |
+        db $00,$00,$00,$00,$02,$00,$20,$10  ;C43E2E |
+        db $00,$00,$00,$00,$02,$00,$24,$10  ;C43E36 |
+        db $00,$00,$00,$00,$02,$00,$28,$10  ;C43E3E |
+        db $00,$00,$00,$00,$FE,$FF          ;C43E46 |
+ 
+UNREACH_C43E4C:
+        db $00,$00,$00,$00,$00,$00,$BC,$0F  ;C43E4C |
+        db $00,$00,$00,$00,$02,$00,$C0,$0F  ;C43E54 |
+        db $00,$00,$00,$00,$02,$00,$C4,$0F  ;C43E5C |
+        db $00,$00,$00,$00,$02,$00,$C8,$0F  ;C43E64 |
+        db $00,$00,$00,$00,$02,$00,$CC,$0F  ;C43E6C |
+        db $00,$00,$00,$00,$02,$00,$D0,$0F  ;C43E74 |
+        db $00,$00,$00,$00,$02,$00,$D4,$0F  ;C43E7C |
+        db $00,$00,$00,$00,$02,$00,$D8,$0F  ;C43E84 |
+        db $00,$00,$00,$00,$02,$00,$DC,$0F  ;C43E8C |
+        db $00,$00,$00,$00,$02,$00,$E0,$0F  ;C43E94 |
+        db $00,$00,$00,$00,$02,$00,$E4,$0F  ;C43E9C |
+        db $00,$00,$00,$00,$02,$00,$E8,$0F  ;C43EA4 |
+        db $00,$00,$00,$00,$02,$00,$EC,$0F  ;C43EAC |
+        db $00,$00,$00,$00,$02,$00,$F0,$0F  ;C43EB4 |
+        db $00,$00,$00,$00,$FE,$FF          ;C43EBC |
+ 
+UNREACH_C43EC2:
         db $00,$00,$00,$00,$00,$00,$B4,$0C  ;C43EC2 |
         db $00,$00,$00,$00,$02,$00,$B8,$0C  ;C43ECA |
         db $25,$B0,$01,$00,$02,$00,$BC,$0C  ;C43ED2 |
@@ -5453,24 +5683,29 @@ UNREACH_C41858:
         db $00,$00,$00,$00,$02,$00,$E8,$0C  ;C43F2A |
         db $00,$00,$00,$00,$02,$00,$EC,$0C  ;C43F32 |
         db $00,$00,$00,$00,$02,$00,$F0,$0C  ;C43F3A |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C43F42 |
-        db $00,$00,$00,$00,$F4,$0C,$00,$00  ;C43F4A |
-        db $00,$00,$02,$00,$F8,$0C,$00,$00  ;C43F52 |
-        db $00,$00,$02,$00,$FC,$0C,$00,$00  ;C43F5A |
-        db $00,$00,$02,$00,$00,$0D,$00,$00  ;C43F62 |
-        db $00,$00,$02,$00,$04,$0D,$00,$00  ;C43F6A |
-        db $00,$00,$02,$00,$08,$0D,$00,$00  ;C43F72 |
-        db $00,$00,$02,$00,$0C,$0D,$00,$00  ;C43F7A |
-        db $00,$00,$02,$00,$10,$0D,$00,$00  ;C43F82 |
-        db $00,$00,$02,$00,$14,$0D,$00,$00  ;C43F8A |
-        db $00,$00,$02,$00,$18,$0D,$00,$00  ;C43F92 |
-        db $00,$00,$02,$00,$1C,$0D,$00,$00  ;C43F9A |
-        db $00,$00,$02,$00,$20,$0D,$00,$00  ;C43FA2 |
-        db $00,$00,$02,$00,$24,$0D,$00,$00  ;C43FAA |
-        db $00,$00,$02,$00,$28,$0D,$00,$00  ;C43FB2 |
-        db $00,$00,$02,$00,$2C,$0D,$00,$00  ;C43FBA |
-        db $00,$00,$02,$00,$30,$0D,$00,$00  ;C43FC2 |
-        db $00,$00,$FE,$FF,$00,$00          ;C43FCA |
+        db $00,$00,$00,$00,$FE,$FF          ;C43F42 |
+ 
+UNREACH_C43F48:
+        db $00,$00,$00,$00,$00,$00,$F4,$0C  ;C43F48 |
+        db $00,$00,$00,$00,$02,$00,$F8,$0C  ;C43F50 |
+        db $00,$00,$00,$00,$02,$00,$FC,$0C  ;C43F58 |
+        db $00,$00,$00,$00,$02,$00,$00,$0D  ;C43F60 |
+        db $00,$00,$00,$00,$02,$00,$04,$0D  ;C43F68 |
+        db $00,$00,$00,$00,$02,$00,$08,$0D  ;C43F70 |
+        db $00,$00,$00,$00,$02,$00,$0C,$0D  ;C43F78 |
+        db $00,$00,$00,$00,$02,$00,$10,$0D  ;C43F80 |
+        db $00,$00,$00,$00,$02,$00,$14,$0D  ;C43F88 |
+        db $00,$00,$00,$00,$02,$00,$18,$0D  ;C43F90 |
+        db $00,$00,$00,$00,$02,$00,$1C,$0D  ;C43F98 |
+        db $00,$00,$00,$00,$02,$00,$20,$0D  ;C43FA0 |
+        db $00,$00,$00,$00,$02,$00,$24,$0D  ;C43FA8 |
+        db $00,$00,$00,$00,$02,$00,$28,$0D  ;C43FB0 |
+        db $00,$00,$00,$00,$02,$00,$2C,$0D  ;C43FB8 |
+        db $00,$00,$00,$00,$02,$00,$30,$0D  ;C43FC0 |
+        db $00,$00,$00,$00,$FE,$FF          ;C43FC8 |
+ 
+UNREACH_C43FCE:
+        db $00,$00                          ;C43FCE |
         db $00,$00,$00,$00,$34,$0D          ;C43FD0 |
         db $00,$00                          ;C43FD6 |
         db $00,$00,$02,$00,$38,$0D          ;C43FD8 |
@@ -5504,6 +5739,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$70,$0D          ;C44048 |
         db $00,$00                          ;C4404E |
         db $00,$00,$FE,$FF                  ;C44050 |
+ 
+UNREACH_C44054:
         db $00,$00,$00,$00,$00,$00,$74,$0D  ;C44054 |
         db $00,$00,$00,$00,$02,$00,$78,$0D  ;C4405C |
         db $25,$B0,$01,$00,$02,$00,$7C,$0D  ;C44064 |
@@ -5520,53 +5757,62 @@ UNREACH_C41858:
         db $00,$00,$00,$00,$02,$00,$A8,$0D  ;C440BC |
         db $00,$00,$00,$00,$02,$00,$AC,$0D  ;C440C4 |
         db $00,$00,$00,$00,$02,$00,$B0,$0D  ;C440CC |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C440D4 |
-        db $00,$00,$00,$00,$B4,$0D,$00,$00  ;C440DC |
-        db $00,$00,$02,$00,$B8,$0D,$00,$00  ;C440E4 |
-        db $00,$00,$02,$00,$BC,$0D,$00,$00  ;C440EC |
-        db $00,$00,$02,$00,$C0,$0D,$00,$00  ;C440F4 |
-        db $00,$00,$02,$00,$C4,$0D,$00,$00  ;C440FC |
-        db $00,$00,$02,$00,$C8,$0D,$00,$00  ;C44104 |
-        db $00,$00,$02,$00,$CC,$0D,$00,$00  ;C4410C |
-        db $00,$00,$02,$00,$D0,$0D,$00,$00  ;C44114 |
-        db $00,$00,$02,$00,$D4,$0D,$00,$00  ;C4411C |
-        db $00,$00,$02,$00,$D8,$0D,$00,$00  ;C44124 |
-        db $00,$00,$02,$00,$DC,$0D,$00,$00  ;C4412C |
-        db $00,$00,$02,$00,$E0,$0D,$00,$00  ;C44134 |
-        db $00,$00,$02,$00,$E4,$0D,$00,$00  ;C4413C |
-        db $00,$00,$02,$00,$E8,$0D,$00,$00  ;C44144 |
-        db $00,$00,$02,$00,$EC,$0D,$00,$00  ;C4414C |
-        db $00,$00,$02,$00,$F0,$0D,$00,$00  ;C44154 |
-        db $00,$00,$FE,$FF,$00,$00,$00,$00  ;C4415C |
-        db $00,$00,$F4,$0D,$00,$00,$00,$00  ;C44164 |
-        db $02,$00,$F8,$0D,$00,$00,$00,$00  ;C4416C |
-        db $02,$00,$FC,$0D,$00,$00,$00,$00  ;C44174 |
-        db $02,$00,$00,$0E,$00,$00,$00,$00  ;C4417C |
-        db $02,$00,$04,$0E,$00,$00,$00,$00  ;C44184 |
-        db $02,$00,$08,$0E,$00,$00,$00,$00  ;C4418C |
-        db $02,$00,$0C,$0E,$00,$00,$00,$00  ;C44194 |
-        db $02,$00,$10,$0E,$00,$00,$00,$00  ;C4419C |
-        db $02,$00,$14,$0E,$00,$00,$00,$00  ;C441A4 |
-        db $02,$00,$18,$0E,$00,$00,$00,$00  ;C441AC |
-        db $02,$00,$1C,$0E,$00,$00,$00,$00  ;C441B4 |
-        db $02,$00,$20,$0E,$00,$00,$00,$00  ;C441BC |
-        db $02,$00,$24,$0E,$00,$00,$00,$00  ;C441C4 |
-        db $02,$00,$28,$0E,$00,$00,$00,$00  ;C441CC |
-        db $02,$00,$2C,$0E,$00,$00,$00,$00  ;C441D4 |
-        db $02,$00,$30,$0E,$00,$00,$00,$00  ;C441DC |
-        db $FE,$FF,$00,$00,$00,$00,$00,$00  ;C441E4 |
-        db $8C,$11,$00,$00,$00,$00,$02,$00  ;C441EC |
-        db $90,$11,$00,$00,$00,$00,$02,$00  ;C441F4 |
-        db $94,$11,$00,$00,$00,$00,$02,$00  ;C441FC |
-        db $98,$11,$00,$00,$00,$00,$02,$00  ;C44204 |
-        db $9C,$11,$00,$00,$00,$00,$02,$00  ;C4420C |
-        db $A0,$11,$00,$00,$00,$00,$02,$00  ;C44214 |
-        db $A4,$11,$00,$00,$00,$00,$02,$00  ;C4421C |
-        db $A8,$11,$00,$00,$00,$00,$02,$00  ;C44224 |
-        db $AC,$11,$00,$00,$00,$00,$02,$00  ;C4422C |
-        db $B0,$11,$00,$00,$00,$00,$02,$00  ;C44234 |
-        db $B4,$11,$00,$00,$00,$00,$02,$00  ;C4423C |
-        db $B8,$11,$00,$00,$00,$00,$FE,$FF  ;C44244 |
+        db $00,$00,$00,$00,$FE,$FF          ;C440D4 |
+ 
+UNREACH_C440DA:
+        db $00,$00,$00,$00,$00,$00,$B4,$0D  ;C440DA |
+        db $00,$00,$00,$00,$02,$00,$B8,$0D  ;C440E2 |
+        db $00,$00,$00,$00,$02,$00,$BC,$0D  ;C440EA |
+        db $00,$00,$00,$00,$02,$00,$C0,$0D  ;C440F2 |
+        db $00,$00,$00,$00,$02,$00,$C4,$0D  ;C440FA |
+        db $00,$00,$00,$00,$02,$00,$C8,$0D  ;C44102 |
+        db $00,$00,$00,$00,$02,$00,$CC,$0D  ;C4410A |
+        db $00,$00,$00,$00,$02,$00,$D0,$0D  ;C44112 |
+        db $00,$00,$00,$00,$02,$00,$D4,$0D  ;C4411A |
+        db $00,$00,$00,$00,$02,$00,$D8,$0D  ;C44122 |
+        db $00,$00,$00,$00,$02,$00,$DC,$0D  ;C4412A |
+        db $00,$00,$00,$00,$02,$00,$E0,$0D  ;C44132 |
+        db $00,$00,$00,$00,$02,$00,$E4,$0D  ;C4413A |
+        db $00,$00,$00,$00,$02,$00,$E8,$0D  ;C44142 |
+        db $00,$00,$00,$00,$02,$00,$EC,$0D  ;C4414A |
+        db $00,$00,$00,$00,$02,$00,$F0,$0D  ;C44152 |
+        db $00,$00,$00,$00,$FE,$FF          ;C4415A |
+ 
+UNREACH_C44160:
+        db $00,$00,$00,$00,$00,$00,$F4,$0D  ;C44160 |
+        db $00,$00,$00,$00,$02,$00,$F8,$0D  ;C44168 |
+        db $00,$00,$00,$00,$02,$00,$FC,$0D  ;C44170 |
+        db $00,$00,$00,$00,$02,$00,$00,$0E  ;C44178 |
+        db $00,$00,$00,$00,$02,$00,$04,$0E  ;C44180 |
+        db $00,$00,$00,$00,$02,$00,$08,$0E  ;C44188 |
+        db $00,$00,$00,$00,$02,$00,$0C,$0E  ;C44190 |
+        db $00,$00,$00,$00,$02,$00,$10,$0E  ;C44198 |
+        db $00,$00,$00,$00,$02,$00,$14,$0E  ;C441A0 |
+        db $00,$00,$00,$00,$02,$00,$18,$0E  ;C441A8 |
+        db $00,$00,$00,$00,$02,$00,$1C,$0E  ;C441B0 |
+        db $00,$00,$00,$00,$02,$00,$20,$0E  ;C441B8 |
+        db $00,$00,$00,$00,$02,$00,$24,$0E  ;C441C0 |
+        db $00,$00,$00,$00,$02,$00,$28,$0E  ;C441C8 |
+        db $00,$00,$00,$00,$02,$00,$2C,$0E  ;C441D0 |
+        db $00,$00,$00,$00,$02,$00,$30,$0E  ;C441D8 |
+        db $00,$00,$00,$00,$FE,$FF          ;C441E0 |
+ 
+UNREACH_C441E6:
+        db $00,$00,$00,$00,$00,$00,$8C,$11  ;C441E6 |
+        db $00,$00,$00,$00,$02,$00,$90,$11  ;C441EE |
+        db $00,$00,$00,$00,$02,$00,$94,$11  ;C441F6 |
+        db $00,$00,$00,$00,$02,$00,$98,$11  ;C441FE |
+        db $00,$00,$00,$00,$02,$00,$9C,$11  ;C44206 |
+        db $00,$00,$00,$00,$02,$00,$A0,$11  ;C4420E |
+        db $00,$00,$00,$00,$02,$00,$A4,$11  ;C44216 |
+        db $00,$00,$00,$00,$02,$00,$A8,$11  ;C4421E |
+        db $00,$00,$00,$00,$02,$00,$AC,$11  ;C44226 |
+        db $00,$00,$00,$00,$02,$00,$B0,$11  ;C4422E |
+        db $00,$00,$00,$00,$02,$00,$B4,$11  ;C44236 |
+        db $00,$00,$00,$00,$02,$00,$B8,$11  ;C4423E |
+        db $00,$00,$00,$00,$FE,$FF          ;C44246 |
+ 
+UNREACH_C4424C:
         db $00,$00,$00,$00,$00,$00,$5C,$11  ;C4424C |
         db $00,$00,$00,$00,$02,$00,$60,$11  ;C44254 |
         db $00,$00,$00,$00,$02,$00,$64,$11  ;C4425C |
@@ -5579,324 +5825,341 @@ UNREACH_C41858:
         db $00,$00,$00,$00,$02,$00,$80,$11  ;C44294 |
         db $00,$00,$00,$00,$02,$00,$84,$11  ;C4429C |
         db $52,$B0,$01,$00,$02,$00,$88,$11  ;C442A4 |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C442AC |
-        db $00,$00,$03,$00,$CC,$11,$00,$00  ;C442B4 |
-        db $00,$00,$03,$00,$D0,$11,$00,$00  ;C442BC |
-        db $00,$00,$03,$00,$D4,$11,$00,$00  ;C442C4 |
-        db $00,$00,$03,$00,$D8,$11,$00,$00  ;C442CC |
-        db $00,$00,$03,$00,$DC,$11,$00,$00  ;C442D4 |
-        db $00,$00,$03,$00,$E0,$11,$00,$00  ;C442DC |
-        db $00,$00,$03,$00,$E4,$11,$00,$00  ;C442E4 |
-        db $00,$00,$1E,$00,$E8,$11,$00,$00  ;C442EC |
-        db $00,$00,$04,$00,$1C,$12,$00,$00  ;C442F4 |
-        db $00,$00,$04,$00,$20,$12,$00,$00  ;C442FC |
-        db $00,$00,$04,$00,$24,$12,$00,$00  ;C44304 |
-        db $00,$00,$04,$00,$28,$12,$00,$00  ;C4430C |
-        db $00,$00,$04,$00,$2C,$12,$00,$00  ;C44314 |
-        db $00,$00,$04,$00,$30,$12,$00,$00  ;C4431C |
-        db $00,$00,$04,$00,$34,$12,$00,$00  ;C44324 |
-        db $00,$00,$04,$00,$38,$12,$00,$00  ;C4432C |
-        db $00,$00,$04,$00,$3C,$12,$00,$00  ;C44334 |
-        db $00,$00,$04,$00,$40,$12,$00,$00  ;C4433C |
-        db $00,$00,$04,$00,$44,$12,$AE,$B1  ;C44344 |
-        db $01,$00,$04,$00,$44,$12,$00,$00  ;C4434C |
-        db $00,$00,$03,$00,$FC,$11,$00,$00  ;C44354 |
-        db $00,$00,$03,$00,$00,$12,$00,$00  ;C4435C |
-        db $00,$00,$03,$00,$04,$12,$00,$00  ;C44364 |
-        db $00,$00,$03,$00,$08,$12,$00,$00  ;C4436C |
-        db $00,$00,$03,$00,$0C,$12,$00,$00  ;C44374 |
-        db $00,$00,$03,$00,$10,$12,$00,$00  ;C4437C |
-        db $00,$00,$03,$00,$14,$12,$00,$00  ;C44384 |
-        db $00,$00,$1E,$00,$18,$12,$00,$00  ;C4438C |
-        db $00,$00,$04,$00,$48,$12,$00,$00  ;C44394 |
-        db $00,$00,$04,$00,$4C,$12,$00,$00  ;C4439C |
-        db $00,$00,$04,$00,$50,$12,$00,$00  ;C443A4 |
-        db $00,$00,$04,$00,$54,$12,$00,$00  ;C443AC |
-        db $00,$00,$04,$00,$58,$12,$00,$00  ;C443B4 |
-        db $00,$00,$04,$00,$5C,$12,$00,$00  ;C443BC |
-        db $00,$00,$04,$00,$60,$12,$00,$00  ;C443C4 |
-        db $00,$00,$04,$00,$64,$12,$00,$00  ;C443CC |
-        db $00,$00,$04,$00,$68,$12,$00,$00  ;C443D4 |
-        db $00,$00,$04,$00,$6C,$12,$00,$00  ;C443DC |
-        db $00,$00,$FF,$00,$70,$12,$00,$00  ;C443E4 |
-        db $00,$00,$03,$00,$B4,$12,$00,$00  ;C443EC |
-        db $00,$00,$03,$00,$B8,$12,$00,$00  ;C443F4 |
-        db $00,$00,$03,$00,$BC,$12,$00,$00  ;C443FC |
-        db $00,$00,$03,$00,$C0,$12,$00,$00  ;C44404 |
-        db $00,$00,$03,$00,$C4,$12,$00,$00  ;C4440C |
-        db $00,$00,$03,$00,$C8,$12,$00,$00  ;C44414 |
-        db $00,$00,$03,$00,$CC,$12,$00,$00  ;C4441C |
-        db $00,$00,$1E,$00,$D0,$12,$00,$00  ;C44424 |
-        db $00,$00,$04,$00,$00,$13,$00,$00  ;C4442C |
-        db $00,$00,$04,$00,$04,$13,$00,$00  ;C44434 |
-        db $00,$00,$04,$00,$08,$13,$00,$00  ;C4443C |
-        db $00,$00,$04,$00,$0C,$13,$00,$00  ;C44444 |
-        db $00,$00,$04,$00,$10,$13,$00,$00  ;C4444C |
-        db $00,$00,$04,$00,$14,$13,$00,$00  ;C44454 |
-        db $00,$00,$04,$00,$18,$13,$00,$00  ;C4445C |
-        db $00,$00,$04,$00,$1C,$13,$00,$00  ;C44464 |
-        db $00,$00,$04,$00,$20,$13,$00,$00  ;C4446C |
-        db $00,$00,$04,$00,$24,$13,$00,$00  ;C44474 |
-        db $00,$00,$FF,$00,$28,$13,$00,$00  ;C4447C |
-        db $00,$00,$03,$00,$84,$12,$00,$00  ;C44484 |
-        db $00,$00,$03,$00,$88,$12,$00,$00  ;C4448C |
-        db $00,$00,$03,$00,$8C,$12,$00,$00  ;C44494 |
-        db $00,$00,$03,$00,$90,$12,$00,$00  ;C4449C |
-        db $00,$00,$03,$00,$94,$12,$00,$00  ;C444A4 |
-        db $00,$00,$03,$00,$98,$12,$00,$00  ;C444AC |
-        db $00,$00,$03,$00,$9C,$12,$00,$00  ;C444B4 |
-        db $00,$00,$1E,$00,$A0,$12,$00,$00  ;C444BC |
-        db $00,$00,$04,$00,$D4,$12,$00,$00  ;C444C4 |
-        db $00,$00,$04,$00,$D8,$12,$00,$00  ;C444CC |
-        db $00,$00,$04,$00,$DC,$12,$00,$00  ;C444D4 |
-        db $00,$00,$04,$00,$E0,$12,$00,$00  ;C444DC |
-        db $00,$00,$04,$00,$E4,$12,$00,$00  ;C444E4 |
-        db $00,$00,$04,$00,$E8,$12,$00,$00  ;C444EC |
-        db $00,$00,$04,$00,$EC,$12,$00,$00  ;C444F4 |
-        db $00,$00,$04,$00,$F0,$12,$00,$00  ;C444FC |
-        db $00,$00,$04,$00,$F4,$12,$00,$00  ;C44504 |
-        db $00,$00,$04,$00,$F8,$12,$00,$00  ;C4450C |
-        db $00,$00,$04,$00,$FC,$12,$AE,$B1  ;C44514 |
-        db $01,$00,$04,$00,$FC,$12,$00,$00  ;C4451C |
-        db $00,$00,$07,$00,$7C,$0B,$00,$00  ;C44524 |
-        db $00,$00,$07,$00,$80,$0B,$00,$00  ;C4452C |
-        db $00,$00,$07,$00,$84,$0B,$00,$00  ;C44534 |
-        db $00,$00,$07,$00,$88,$0B,$00,$00  ;C4453C |
-        db $00,$00,$07,$00,$8C,$0B,$00,$00  ;C44544 |
-        db $00,$00,$07,$00,$90,$0B,$00,$00  ;C4454C |
-        db $00,$00,$07,$00,$94,$0B,$00,$00  ;C44554 |
-        db $00,$00,$07,$00,$98,$0B,$00,$00  ;C4455C |
-        db $00,$00,$07,$00,$9C,$0B,$00,$00  ;C44564 |
-        db $00,$00,$07,$00,$A0,$0B,$00,$00  ;C4456C |
-        db $00,$00,$07,$00,$A4,$0B,$00,$00  ;C44574 |
-        db $00,$00,$07,$00,$A8,$0B,$00,$00  ;C4457C |
-        db $00,$00,$07,$00,$AC,$0B,$00,$00  ;C44584 |
-        db $00,$00,$07,$00,$B0,$0B,$00,$00  ;C4458C |
-        db $00,$00,$07,$00,$B4,$0B,$00,$00  ;C44594 |
-        db $00,$00,$07,$00,$B8,$0B,$00,$00  ;C4459C |
-        db $00,$00,$07,$00,$BC,$0B,$00,$00  ;C445A4 |
-        db $00,$00,$07,$00,$C0,$0B,$00,$00  ;C445AC |
-        db $00,$00,$07,$00,$C4,$0B,$00,$00  ;C445B4 |
-        db $00,$00,$07,$00,$7C,$0B,$00,$00  ;C445BC |
-        db $00,$00,$07,$00,$7C,$0B,$00,$00  ;C445C4 |
-        db $00,$00,$07,$00,$80,$0B,$00,$00  ;C445CC |
-        db $00,$00,$07,$00,$84,$0B,$00,$00  ;C445D4 |
-        db $00,$00,$07,$00,$88,$0B,$00,$00  ;C445DC |
-        db $00,$00,$07,$00,$8C,$0B,$00,$00  ;C445E4 |
-        db $00,$00,$07,$00,$90,$0B,$00,$00  ;C445EC |
-        db $00,$00,$07,$00,$94,$0B,$00,$00  ;C445F4 |
-        db $00,$00,$07,$00,$98,$0B,$00,$00  ;C445FC |
-        db $00,$00,$07,$00,$9C,$0B,$00,$00  ;C44604 |
-        db $00,$00,$07,$00,$A0,$0B,$00,$00  ;C4460C |
-        db $00,$00,$07,$00,$A4,$0B,$00,$00  ;C44614 |
-        db $00,$00,$07,$00,$A8,$0B,$00,$00  ;C4461C |
-        db $00,$00,$07,$00,$AC,$0B,$00,$00  ;C44624 |
-        db $00,$00,$07,$00,$B0,$0B,$00,$00  ;C4462C |
-        db $00,$00,$07,$00,$B4,$0B,$00,$00  ;C44634 |
-        db $00,$00,$07,$00,$B8,$0B,$00,$00  ;C4463C |
-        db $00,$00,$07,$00,$BC,$0B,$00,$00  ;C44644 |
-        db $00,$00,$07,$00,$C0,$0B,$00,$00  ;C4464C |
-        db $00,$00,$07,$00,$C4,$0B,$00,$00  ;C44654 |
-        db $00,$00,$07,$00,$7C,$0B,$00,$00  ;C4465C |
-        db $00,$00,$07,$00,$2C,$10,$00,$00  ;C44664 |
-        db $00,$00,$07,$00,$30,$10,$00,$00  ;C4466C |
-        db $00,$00,$07,$00,$34,$10,$00,$00  ;C44674 |
-        db $00,$00,$07,$00,$38,$10,$00,$00  ;C4467C |
-        db $00,$00,$07,$00,$3C,$10,$00,$00  ;C44684 |
-        db $00,$00,$07,$00,$40,$10,$00,$00  ;C4468C |
-        db $00,$00,$07,$00,$44,$10,$00,$00  ;C44694 |
-        db $00,$00,$07,$00,$48,$10,$00,$00  ;C4469C |
-        db $00,$00,$07,$00,$4C,$10,$00,$00  ;C446A4 |
-        db $00,$00,$07,$00,$34,$10,$00,$00  ;C446AC |
-        db $00,$00,$07,$00,$38,$10,$00,$00  ;C446B4 |
-        db $00,$00,$07,$00,$3C,$10,$00,$00  ;C446BC |
-        db $00,$00,$07,$00,$40,$10,$00,$00  ;C446C4 |
-        db $00,$00,$07,$00,$44,$10,$00,$00  ;C446CC |
-        db $00,$00,$07,$00,$48,$10,$00,$00  ;C446D4 |
-        db $00,$00,$07,$00,$4C,$10,$00,$00  ;C446DC |
-        db $00,$00,$07,$00,$34,$10,$00,$00  ;C446E4 |
-        db $00,$00,$07,$00,$38,$10,$00,$00  ;C446EC |
-        db $00,$00,$07,$00,$3C,$10,$00,$00  ;C446F4 |
-        db $00,$00,$07,$00,$40,$10,$00,$00  ;C446FC |
-        db $00,$00,$07,$00,$44,$10,$00,$00  ;C44704 |
-        db $00,$00,$07,$00,$48,$10,$00,$00  ;C4470C |
-        db $00,$00,$07,$00,$4C,$10,$00,$00  ;C44714 |
-        db $00,$00,$07,$00,$34,$10,$00,$00  ;C4471C |
-        db $00,$00,$07,$00,$38,$10,$00,$00  ;C44724 |
-        db $00,$00,$07,$00,$3C,$10,$00,$00  ;C4472C |
-        db $00,$00,$07,$00,$40,$10,$00,$00  ;C44734 |
-        db $00,$00,$07,$00,$44,$10,$00,$00  ;C4473C |
-        db $00,$00,$07,$00,$48,$10,$00,$00  ;C44744 |
-        db $00,$00,$07,$00,$4C,$10,$00,$00  ;C4474C |
-        db $00,$00,$07,$00,$34,$10,$00,$00  ;C44754 |
-        db $00,$00,$07,$00,$38,$10,$00,$00  ;C4475C |
-        db $00,$00,$07,$00,$3C,$10,$00,$00  ;C44764 |
-        db $00,$00,$07,$00,$40,$10,$00,$00  ;C4476C |
-        db $00,$00,$07,$00,$44,$10,$00,$00  ;C44774 |
-        db $00,$00,$07,$00,$48,$10,$00,$00  ;C4477C |
-        db $00,$00,$07,$00,$4C,$10,$00,$00  ;C44784 |
-        db $00,$00,$07,$00,$30,$10,$00,$00  ;C4478C |
-        db $00,$00,$07,$00,$2C,$10,$00,$00  ;C44794 |
-        db $00,$00,$FE,$FF,$00,$00,$00,$00  ;C4479C |
-        db $07,$00,$C8,$0B,$00,$00,$00,$00  ;C447A4 |
-        db $07,$00,$CC,$0B,$00,$00,$00,$00  ;C447AC |
-        db $07,$00,$D0,$0B,$00,$00,$00,$00  ;C447B4 |
-        db $07,$00,$D4,$0B,$00,$00,$00,$00  ;C447BC |
-        db $07,$00,$D8,$0B,$00,$00,$00,$00  ;C447C4 |
-        db $07,$00,$DC,$0B,$00,$00,$00,$00  ;C447CC |
-        db $07,$00,$E0,$0B,$00,$00,$00,$00  ;C447D4 |
-        db $07,$00,$E4,$0B,$00,$00,$00,$00  ;C447DC |
-        db $07,$00,$E8,$0B,$00,$00,$00,$00  ;C447E4 |
-        db $07,$00,$EC,$0B,$00,$00,$00,$00  ;C447EC |
-        db $07,$00,$F0,$0B,$00,$00,$00,$00  ;C447F4 |
-        db $07,$00,$F4,$0B,$00,$00,$00,$00  ;C447FC |
-        db $07,$00,$F8,$0B,$00,$00,$00,$00  ;C44804 |
-        db $07,$00,$FC,$0B,$00,$00,$00,$00  ;C4480C |
-        db $07,$00,$00,$0C,$00,$00,$00,$00  ;C44814 |
-        db $07,$00,$04,$0C,$00,$00,$00,$00  ;C4481C |
-        db $07,$00,$08,$0C,$00,$00,$00,$00  ;C44824 |
-        db $07,$00,$0C,$0C,$00,$00,$00,$00  ;C4482C |
-        db $07,$00,$10,$0C,$00,$00,$00,$00  ;C44834 |
-        db $07,$00,$14,$0C,$00,$00,$00,$00  ;C4483C |
-        db $07,$00,$C8,$0B,$00,$00,$00,$00  ;C44844 |
-        db $07,$00,$CC,$0B,$00,$00,$00,$00  ;C4484C |
-        db $07,$00,$D0,$0B,$00,$00,$00,$00  ;C44854 |
-        db $07,$00,$D4,$0B,$00,$00,$00,$00  ;C4485C |
-        db $07,$00,$D8,$0B,$00,$00,$00,$00  ;C44864 |
-        db $07,$00,$DC,$0B,$00,$00,$00,$00  ;C4486C |
-        db $07,$00,$E0,$0B,$00,$00,$00,$00  ;C44874 |
-        db $07,$00,$E4,$0B,$00,$00,$00,$00  ;C4487C |
-        db $07,$00,$E8,$0B,$00,$00,$00,$00  ;C44884 |
-        db $07,$00,$EC,$0B,$00,$00,$00,$00  ;C4488C |
-        db $07,$00,$F0,$0B,$00,$00,$00,$00  ;C44894 |
-        db $07,$00,$F4,$0B,$00,$00,$00,$00  ;C4489C |
-        db $07,$00,$F8,$0B,$00,$00,$00,$00  ;C448A4 |
-        db $07,$00,$FC,$0B,$00,$00,$00,$00  ;C448AC |
-        db $07,$00,$00,$0C,$00,$00,$00,$00  ;C448B4 |
-        db $07,$00,$04,$0C,$00,$00,$00,$00  ;C448BC |
-        db $07,$00,$08,$0C,$00,$00,$00,$00  ;C448C4 |
-        db $07,$00,$0C,$0C,$00,$00,$00,$00  ;C448CC |
-        db $07,$00,$10,$0C,$00,$00,$00,$00  ;C448D4 |
-        db $07,$00,$14,$0C,$00,$00,$00,$00  ;C448DC |
-        db $07,$00,$50,$10,$00,$00,$00,$00  ;C448E4 |
-        db $07,$00,$54,$10,$00,$00,$00,$00  ;C448EC |
-        db $07,$00,$58,$10,$00,$00,$00,$00  ;C448F4 |
-        db $07,$00,$5C,$10,$00,$00,$00,$00  ;C448FC |
-        db $07,$00,$60,$10,$00,$00,$00,$00  ;C44904 |
-        db $07,$00,$64,$10,$00,$00,$00,$00  ;C4490C |
-        db $07,$00,$68,$10,$00,$00,$00,$00  ;C44914 |
-        db $07,$00,$6C,$10,$00,$00,$00,$00  ;C4491C |
-        db $07,$00,$70,$10,$00,$00,$00,$00  ;C44924 |
-        db $07,$00,$58,$10,$00,$00,$00,$00  ;C4492C |
-        db $07,$00,$5C,$10,$00,$00,$00,$00  ;C44934 |
-        db $07,$00,$60,$10,$00,$00,$00,$00  ;C4493C |
-        db $07,$00,$64,$10,$00,$00,$00,$00  ;C44944 |
-        db $07,$00,$68,$10,$00,$00,$00,$00  ;C4494C |
-        db $07,$00,$6C,$10,$00,$00,$00,$00  ;C44954 |
-        db $07,$00,$70,$10,$00,$00,$00,$00  ;C4495C |
-        db $07,$00,$58,$10,$00,$00,$00,$00  ;C44964 |
-        db $07,$00,$5C,$10,$00,$00,$00,$00  ;C4496C |
-        db $07,$00,$60,$10,$00,$00,$00,$00  ;C44974 |
-        db $07,$00,$64,$10,$00,$00,$00,$00  ;C4497C |
-        db $07,$00,$68,$10,$00,$00,$00,$00  ;C44984 |
-        db $07,$00,$6C,$10,$00,$00,$00,$00  ;C4498C |
-        db $07,$00,$70,$10,$00,$00,$00,$00  ;C44994 |
-        db $07,$00,$58,$10,$00,$00,$00,$00  ;C4499C |
-        db $07,$00,$5C,$10,$00,$00,$00,$00  ;C449A4 |
-        db $07,$00,$60,$10,$00,$00,$00,$00  ;C449AC |
-        db $07,$00,$64,$10,$00,$00,$00,$00  ;C449B4 |
-        db $07,$00,$68,$10,$00,$00,$00,$00  ;C449BC |
-        db $07,$00,$6C,$10,$00,$00,$00,$00  ;C449C4 |
-        db $07,$00,$70,$10,$00,$00,$00,$00  ;C449CC |
-        db $07,$00,$58,$10,$00,$00,$00,$00  ;C449D4 |
-        db $07,$00,$5C,$10,$00,$00,$00,$00  ;C449DC |
-        db $07,$00,$60,$10,$00,$00,$00,$00  ;C449E4 |
-        db $07,$00,$64,$10,$00,$00,$00,$00  ;C449EC |
-        db $07,$00,$68,$10,$00,$00,$00,$00  ;C449F4 |
-        db $07,$00,$6C,$10,$00,$00,$00,$00  ;C449FC |
-        db $07,$00,$70,$10,$00,$00,$00,$00  ;C44A04 |
-        db $07,$00,$54,$10,$00,$00,$00,$00  ;C44A0C |
-        db $07,$00,$50,$10,$00,$00,$00,$00  ;C44A14 |
-        db $FE,$FF,$00,$00,$00,$00,$07,$00  ;C44A1C |
-        db $18,$0C,$00,$00,$00,$00,$07,$00  ;C44A24 |
-        db $1C,$0C,$00,$00,$00,$00,$07,$00  ;C44A2C |
-        db $20,$0C,$00,$00,$00,$00,$07,$00  ;C44A34 |
-        db $24,$0C,$00,$00,$00,$00,$07,$00  ;C44A3C |
-        db $28,$0C,$00,$00,$00,$00,$07,$00  ;C44A44 |
-        db $2C,$0C,$00,$00,$00,$00,$07,$00  ;C44A4C |
-        db $30,$0C,$00,$00,$00,$00,$07,$00  ;C44A54 |
-        db $34,$0C,$00,$00,$00,$00,$07,$00  ;C44A5C |
-        db $38,$0C,$00,$00,$00,$00,$07,$00  ;C44A64 |
-        db $3C,$0C,$00,$00,$00,$00,$07,$00  ;C44A6C |
-        db $40,$0C,$00,$00,$00,$00,$07,$00  ;C44A74 |
-        db $44,$0C,$00,$00,$00,$00,$07,$00  ;C44A7C |
-        db $48,$0C,$00,$00,$00,$00,$07,$00  ;C44A84 |
-        db $4C,$0C,$00,$00,$00,$00,$07,$00  ;C44A8C |
-        db $50,$0C,$00,$00,$00,$00,$07,$00  ;C44A94 |
-        db $54,$0C,$00,$00,$00,$00,$07,$00  ;C44A9C |
-        db $58,$0C,$00,$00,$00,$00,$07,$00  ;C44AA4 |
-        db $5C,$0C,$00,$00,$00,$00,$07,$00  ;C44AAC |
-        db $60,$0C,$00,$00,$00,$00,$07,$00  ;C44AB4 |
-        db $18,$0C,$00,$00,$00,$00,$07,$00  ;C44ABC |
-        db $18,$0C,$00,$00,$00,$00,$07,$00  ;C44AC4 |
-        db $1C,$0C,$00,$00,$00,$00,$07,$00  ;C44ACC |
-        db $20,$0C,$00,$00,$00,$00,$07,$00  ;C44AD4 |
-        db $24,$0C,$00,$00,$00,$00,$07,$00  ;C44ADC |
-        db $28,$0C,$00,$00,$00,$00,$07,$00  ;C44AE4 |
-        db $2C,$0C,$00,$00,$00,$00,$07,$00  ;C44AEC |
-        db $30,$0C,$00,$00,$00,$00,$07,$00  ;C44AF4 |
-        db $34,$0C,$00,$00,$00,$00,$07,$00  ;C44AFC |
-        db $38,$0C,$00,$00,$00,$00,$07,$00  ;C44B04 |
-        db $3C,$0C,$00,$00,$00,$00,$07,$00  ;C44B0C |
-        db $40,$0C,$00,$00,$00,$00,$07,$00  ;C44B14 |
-        db $44,$0C,$00,$00,$00,$00,$07,$00  ;C44B1C |
-        db $48,$0C,$00,$00,$00,$00,$07,$00  ;C44B24 |
-        db $4C,$0C,$00,$00,$00,$00,$07,$00  ;C44B2C |
-        db $50,$0C,$00,$00,$00,$00,$07,$00  ;C44B34 |
-        db $54,$0C,$00,$00,$00,$00,$07,$00  ;C44B3C |
-        db $58,$0C,$00,$00,$00,$00,$07,$00  ;C44B44 |
-        db $5C,$0C,$00,$00,$00,$00,$07,$00  ;C44B4C |
-        db $60,$0C,$00,$00,$00,$00,$07,$00  ;C44B54 |
-        db $18,$0C,$00,$00,$00,$00,$07,$00  ;C44B5C |
-        db $74,$10,$00,$00,$00,$00,$07,$00  ;C44B64 |
-        db $78,$10,$00,$00,$00,$00,$07,$00  ;C44B6C |
-        db $7C,$10,$00,$00,$00,$00,$07,$00  ;C44B74 |
-        db $80,$10,$00,$00,$00,$00,$07,$00  ;C44B7C |
-        db $84,$10,$00,$00,$00,$00,$07,$00  ;C44B84 |
-        db $88,$10,$00,$00,$00,$00,$07,$00  ;C44B8C |
-        db $8C,$10,$00,$00,$00,$00,$07,$00  ;C44B94 |
-        db $90,$10,$00,$00,$00,$00,$07,$00  ;C44B9C |
-        db $94,$10,$00,$00,$00,$00,$07,$00  ;C44BA4 |
-        db $7C,$10,$00,$00,$00,$00,$07,$00  ;C44BAC |
-        db $80,$10,$00,$00,$00,$00,$07,$00  ;C44BB4 |
-        db $84,$10,$00,$00,$00,$00,$07,$00  ;C44BBC |
-        db $88,$10,$00,$00,$00,$00,$07,$00  ;C44BC4 |
-        db $8C,$10,$00,$00,$00,$00,$07,$00  ;C44BCC |
-        db $90,$10,$00,$00,$00,$00,$07,$00  ;C44BD4 |
-        db $94,$10,$00,$00,$00,$00,$07,$00  ;C44BDC |
-        db $7C,$10,$00,$00,$00,$00,$07,$00  ;C44BE4 |
-        db $80,$10,$00,$00,$00,$00,$07,$00  ;C44BEC |
-        db $84,$10,$00,$00,$00,$00,$07,$00  ;C44BF4 |
-        db $88,$10,$00,$00,$00,$00,$07,$00  ;C44BFC |
-        db $8C,$10,$00,$00,$00,$00,$07,$00  ;C44C04 |
-        db $90,$10,$00,$00,$00,$00,$07,$00  ;C44C0C |
-        db $94,$10,$00,$00,$00,$00,$07,$00  ;C44C14 |
-        db $7C,$10,$00,$00,$00,$00,$07,$00  ;C44C1C |
-        db $80,$10,$00,$00,$00,$00,$07,$00  ;C44C24 |
-        db $84,$10,$00,$00,$00,$00,$07,$00  ;C44C2C |
-        db $88,$10,$00,$00,$00,$00,$07,$00  ;C44C34 |
-        db $8C,$10,$00,$00,$00,$00,$07,$00  ;C44C3C |
-        db $90,$10,$00,$00,$00,$00,$07,$00  ;C44C44 |
-        db $94,$10,$00,$00,$00,$00,$07,$00  ;C44C4C |
-        db $7C,$10,$00,$00,$00,$00,$07,$00  ;C44C54 |
-        db $80,$10,$00,$00,$00,$00,$07,$00  ;C44C5C |
-        db $84,$10,$00,$00,$00,$00,$07,$00  ;C44C64 |
-        db $88,$10,$00,$00,$00,$00,$07,$00  ;C44C6C |
-        db $8C,$10,$00,$00,$00,$00,$07,$00  ;C44C74 |
-        db $90,$10,$00,$00,$00,$00,$07,$00  ;C44C7C |
-        db $94,$10,$00,$00,$00,$00,$07,$00  ;C44C84 |
-        db $78,$10,$00,$00,$00,$00,$07,$00  ;C44C8C |
-        db $74,$10,$00,$00,$00,$00,$FE,$FF  ;C44C94 |
+        db $00,$00,$00,$00,$FE,$FF          ;C442AC |
+ 
+UNREACH_C442B2:
+        db $00,$00,$00,$00,$03,$00,$CC,$11  ;C442B2 |
+        db $00,$00,$00,$00,$03,$00,$D0,$11  ;C442BA |
+        db $00,$00,$00,$00,$03,$00,$D4,$11  ;C442C2 |
+        db $00,$00,$00,$00,$03,$00,$D8,$11  ;C442CA |
+        db $00,$00,$00,$00,$03,$00,$DC,$11  ;C442D2 |
+        db $00,$00,$00,$00,$03,$00,$E0,$11  ;C442DA |
+        db $00,$00,$00,$00,$03,$00,$E4,$11  ;C442E2 |
+        db $00,$00,$00,$00,$1E,$00,$E8,$11  ;C442EA |
+        db $00,$00,$00,$00,$04,$00,$1C,$12  ;C442F2 |
+        db $00,$00,$00,$00,$04,$00,$20,$12  ;C442FA |
+        db $00,$00,$00,$00,$04,$00,$24,$12  ;C44302 |
+        db $00,$00,$00,$00,$04,$00,$28,$12  ;C4430A |
+        db $00,$00,$00,$00,$04,$00,$2C,$12  ;C44312 |
+        db $00,$00,$00,$00,$04,$00,$30,$12  ;C4431A |
+        db $00,$00,$00,$00,$04,$00,$34,$12  ;C44322 |
+        db $00,$00,$00,$00,$04,$00,$38,$12  ;C4432A |
+        db $00,$00,$00,$00,$04,$00,$3C,$12  ;C44332 |
+        db $00,$00,$00,$00,$04,$00,$40,$12  ;C4433A |
+        db $00,$00,$00,$00,$04,$00,$44,$12  ;C44342 |
+        db $AE,$B1,$01,$00,$04,$00,$44,$12  ;C4434A |
+ 
+UNREACH_C44352:
+        db $00,$00,$00,$00,$03,$00,$FC,$11  ;C44352 |
+        db $00,$00,$00,$00,$03,$00,$00,$12  ;C4435A |
+        db $00,$00,$00,$00,$03,$00,$04,$12  ;C44362 |
+        db $00,$00,$00,$00,$03,$00,$08,$12  ;C4436A |
+        db $00,$00,$00,$00,$03,$00,$0C,$12  ;C44372 |
+        db $00,$00,$00,$00,$03,$00,$10,$12  ;C4437A |
+        db $00,$00,$00,$00,$03,$00,$14,$12  ;C44382 |
+        db $00,$00,$00,$00,$1E,$00,$18,$12  ;C4438A |
+        db $00,$00,$00,$00,$04,$00,$48,$12  ;C44392 |
+        db $00,$00,$00,$00,$04,$00,$4C,$12  ;C4439A |
+        db $00,$00,$00,$00,$04,$00,$50,$12  ;C443A2 |
+        db $00,$00,$00,$00,$04,$00,$54,$12  ;C443AA |
+        db $00,$00,$00,$00,$04,$00,$58,$12  ;C443B2 |
+        db $00,$00,$00,$00,$04,$00,$5C,$12  ;C443BA |
+        db $00,$00,$00,$00,$04,$00,$60,$12  ;C443C2 |
+        db $00,$00,$00,$00,$04,$00,$64,$12  ;C443CA |
+        db $00,$00,$00,$00,$04,$00,$68,$12  ;C443D2 |
+        db $00,$00,$00,$00,$04,$00,$6C,$12  ;C443DA |
+        db $00,$00,$00,$00,$FF,$00,$70,$12  ;C443E2 |
+ 
+UNREACH_C443EA:
+        db $00,$00,$00,$00,$03,$00,$B4,$12  ;C443EA |
+        db $00,$00,$00,$00,$03,$00,$B8,$12  ;C443F2 |
+        db $00,$00,$00,$00,$03,$00,$BC,$12  ;C443FA |
+        db $00,$00,$00,$00,$03,$00,$C0,$12  ;C44402 |
+        db $00,$00,$00,$00,$03,$00,$C4,$12  ;C4440A |
+        db $00,$00,$00,$00,$03,$00,$C8,$12  ;C44412 |
+        db $00,$00,$00,$00,$03,$00,$CC,$12  ;C4441A |
+        db $00,$00,$00,$00,$1E,$00,$D0,$12  ;C44422 |
+        db $00,$00,$00,$00,$04,$00,$00,$13  ;C4442A |
+        db $00,$00,$00,$00,$04,$00,$04,$13  ;C44432 |
+        db $00,$00,$00,$00,$04,$00,$08,$13  ;C4443A |
+        db $00,$00,$00,$00,$04,$00,$0C,$13  ;C44442 |
+        db $00,$00,$00,$00,$04,$00,$10,$13  ;C4444A |
+        db $00,$00,$00,$00,$04,$00,$14,$13  ;C44452 |
+        db $00,$00,$00,$00,$04,$00,$18,$13  ;C4445A |
+        db $00,$00,$00,$00,$04,$00,$1C,$13  ;C44462 |
+        db $00,$00,$00,$00,$04,$00,$20,$13  ;C4446A |
+        db $00,$00,$00,$00,$04,$00,$24,$13  ;C44472 |
+        db $00,$00,$00,$00,$FF,$00,$28,$13  ;C4447A |
+ 
+UNREACH_C44482:
+        db $00,$00,$00,$00,$03,$00,$84,$12  ;C44482 |
+        db $00,$00,$00,$00,$03,$00,$88,$12  ;C4448A |
+        db $00,$00,$00,$00,$03,$00,$8C,$12  ;C44492 |
+        db $00,$00,$00,$00,$03,$00,$90,$12  ;C4449A |
+        db $00,$00,$00,$00,$03,$00,$94,$12  ;C444A2 |
+        db $00,$00,$00,$00,$03,$00,$98,$12  ;C444AA |
+        db $00,$00,$00,$00,$03,$00,$9C,$12  ;C444B2 |
+        db $00,$00,$00,$00,$1E,$00,$A0,$12  ;C444BA |
+        db $00,$00,$00,$00,$04,$00,$D4,$12  ;C444C2 |
+        db $00,$00,$00,$00,$04,$00,$D8,$12  ;C444CA |
+        db $00,$00,$00,$00,$04,$00,$DC,$12  ;C444D2 |
+        db $00,$00,$00,$00,$04,$00,$E0,$12  ;C444DA |
+        db $00,$00,$00,$00,$04,$00,$E4,$12  ;C444E2 |
+        db $00,$00,$00,$00,$04,$00,$E8,$12  ;C444EA |
+        db $00,$00,$00,$00,$04,$00,$EC,$12  ;C444F2 |
+        db $00,$00,$00,$00,$04,$00,$F0,$12  ;C444FA |
+        db $00,$00,$00,$00,$04,$00,$F4,$12  ;C44502 |
+        db $00,$00,$00,$00,$04,$00,$F8,$12  ;C4450A |
+        db $00,$00,$00,$00,$04,$00,$FC,$12  ;C44512 |
+        db $AE,$B1,$01,$00,$04,$00,$FC,$12  ;C4451A |
+ 
+UNREACH_C44522:
+        db $00,$00,$00,$00,$07,$00,$7C,$0B  ;C44522 |
+        db $00,$00,$00,$00,$07,$00,$80,$0B  ;C4452A |
+        db $00,$00,$00,$00,$07,$00,$84,$0B  ;C44532 |
+        db $00,$00,$00,$00,$07,$00,$88,$0B  ;C4453A |
+        db $00,$00,$00,$00,$07,$00,$8C,$0B  ;C44542 |
+        db $00,$00,$00,$00,$07,$00,$90,$0B  ;C4454A |
+        db $00,$00,$00,$00,$07,$00,$94,$0B  ;C44552 |
+        db $00,$00,$00,$00,$07,$00,$98,$0B  ;C4455A |
+        db $00,$00,$00,$00,$07,$00,$9C,$0B  ;C44562 |
+        db $00,$00,$00,$00,$07,$00,$A0,$0B  ;C4456A |
+        db $00,$00,$00,$00,$07,$00,$A4,$0B  ;C44572 |
+        db $00,$00,$00,$00,$07,$00,$A8,$0B  ;C4457A |
+        db $00,$00,$00,$00,$07,$00,$AC,$0B  ;C44582 |
+        db $00,$00,$00,$00,$07,$00,$B0,$0B  ;C4458A |
+        db $00,$00,$00,$00,$07,$00,$B4,$0B  ;C44592 |
+        db $00,$00,$00,$00,$07,$00,$B8,$0B  ;C4459A |
+        db $00,$00,$00,$00,$07,$00,$BC,$0B  ;C445A2 |
+        db $00,$00,$00,$00,$07,$00,$C0,$0B  ;C445AA |
+        db $00,$00,$00,$00,$07,$00,$C4,$0B  ;C445B2 |
+        db $00,$00,$00,$00,$07,$00,$7C,$0B  ;C445BA |
+        db $00,$00,$00,$00,$07,$00,$7C,$0B  ;C445C2 |
+        db $00,$00,$00,$00,$07,$00,$80,$0B  ;C445CA |
+        db $00,$00,$00,$00,$07,$00,$84,$0B  ;C445D2 |
+        db $00,$00,$00,$00,$07,$00,$88,$0B  ;C445DA |
+        db $00,$00,$00,$00,$07,$00,$8C,$0B  ;C445E2 |
+        db $00,$00,$00,$00,$07,$00,$90,$0B  ;C445EA |
+        db $00,$00,$00,$00,$07,$00,$94,$0B  ;C445F2 |
+        db $00,$00,$00,$00,$07,$00,$98,$0B  ;C445FA |
+        db $00,$00,$00,$00,$07,$00,$9C,$0B  ;C44602 |
+        db $00,$00,$00,$00,$07,$00,$A0,$0B  ;C4460A |
+        db $00,$00,$00,$00,$07,$00,$A4,$0B  ;C44612 |
+        db $00,$00,$00,$00,$07,$00,$A8,$0B  ;C4461A |
+        db $00,$00,$00,$00,$07,$00,$AC,$0B  ;C44622 |
+        db $00,$00,$00,$00,$07,$00,$B0,$0B  ;C4462A |
+        db $00,$00,$00,$00,$07,$00,$B4,$0B  ;C44632 |
+        db $00,$00,$00,$00,$07,$00,$B8,$0B  ;C4463A |
+        db $00,$00,$00,$00,$07,$00,$BC,$0B  ;C44642 |
+        db $00,$00,$00,$00,$07,$00,$C0,$0B  ;C4464A |
+        db $00,$00,$00,$00,$07,$00,$C4,$0B  ;C44652 |
+        db $00,$00,$00,$00,$07,$00,$7C,$0B  ;C4465A |
+        db $00,$00,$00,$00,$07,$00,$2C,$10  ;C44662 |
+        db $00,$00,$00,$00,$07,$00,$30,$10  ;C4466A |
+        db $00,$00,$00,$00,$07,$00,$34,$10  ;C44672 |
+        db $00,$00,$00,$00,$07,$00,$38,$10  ;C4467A |
+        db $00,$00,$00,$00,$07,$00,$3C,$10  ;C44682 |
+        db $00,$00,$00,$00,$07,$00,$40,$10  ;C4468A |
+        db $00,$00,$00,$00,$07,$00,$44,$10  ;C44692 |
+        db $00,$00,$00,$00,$07,$00,$48,$10  ;C4469A |
+        db $00,$00,$00,$00,$07,$00,$4C,$10  ;C446A2 |
+        db $00,$00,$00,$00,$07,$00,$34,$10  ;C446AA |
+        db $00,$00,$00,$00,$07,$00,$38,$10  ;C446B2 |
+        db $00,$00,$00,$00,$07,$00,$3C,$10  ;C446BA |
+        db $00,$00,$00,$00,$07,$00,$40,$10  ;C446C2 |
+        db $00,$00,$00,$00,$07,$00,$44,$10  ;C446CA |
+        db $00,$00,$00,$00,$07,$00,$48,$10  ;C446D2 |
+        db $00,$00,$00,$00,$07,$00,$4C,$10  ;C446DA |
+        db $00,$00,$00,$00,$07,$00,$34,$10  ;C446E2 |
+        db $00,$00,$00,$00,$07,$00,$38,$10  ;C446EA |
+        db $00,$00,$00,$00,$07,$00,$3C,$10  ;C446F2 |
+        db $00,$00,$00,$00,$07,$00,$40,$10  ;C446FA |
+        db $00,$00,$00,$00,$07,$00,$44,$10  ;C44702 |
+        db $00,$00,$00,$00,$07,$00,$48,$10  ;C4470A |
+        db $00,$00,$00,$00,$07,$00,$4C,$10  ;C44712 |
+        db $00,$00,$00,$00,$07,$00,$34,$10  ;C4471A |
+        db $00,$00,$00,$00,$07,$00,$38,$10  ;C44722 |
+        db $00,$00,$00,$00,$07,$00,$3C,$10  ;C4472A |
+        db $00,$00,$00,$00,$07,$00,$40,$10  ;C44732 |
+        db $00,$00,$00,$00,$07,$00,$44,$10  ;C4473A |
+        db $00,$00,$00,$00,$07,$00,$48,$10  ;C44742 |
+        db $00,$00,$00,$00,$07,$00,$4C,$10  ;C4474A |
+        db $00,$00,$00,$00,$07,$00,$34,$10  ;C44752 |
+        db $00,$00,$00,$00,$07,$00,$38,$10  ;C4475A |
+        db $00,$00,$00,$00,$07,$00,$3C,$10  ;C44762 |
+        db $00,$00,$00,$00,$07,$00,$40,$10  ;C4476A |
+        db $00,$00,$00,$00,$07,$00,$44,$10  ;C44772 |
+        db $00,$00,$00,$00,$07,$00,$48,$10  ;C4477A |
+        db $00,$00,$00,$00,$07,$00,$4C,$10  ;C44782 |
+        db $00,$00,$00,$00,$07,$00,$30,$10  ;C4478A |
+        db $00,$00,$00,$00,$07,$00,$2C,$10  ;C44792 |
+        db $00,$00,$00,$00,$FE,$FF          ;C4479A |
+ 
+UNREACH_C447A0:
+        db $00,$00,$00,$00,$07,$00,$C8,$0B  ;C447A0 |
+        db $00,$00,$00,$00,$07,$00,$CC,$0B  ;C447A8 |
+        db $00,$00,$00,$00,$07,$00,$D0,$0B  ;C447B0 |
+        db $00,$00,$00,$00,$07,$00,$D4,$0B  ;C447B8 |
+        db $00,$00,$00,$00,$07,$00,$D8,$0B  ;C447C0 |
+        db $00,$00,$00,$00,$07,$00,$DC,$0B  ;C447C8 |
+        db $00,$00,$00,$00,$07,$00,$E0,$0B  ;C447D0 |
+        db $00,$00,$00,$00,$07,$00,$E4,$0B  ;C447D8 |
+        db $00,$00,$00,$00,$07,$00,$E8,$0B  ;C447E0 |
+        db $00,$00,$00,$00,$07,$00,$EC,$0B  ;C447E8 |
+        db $00,$00,$00,$00,$07,$00,$F0,$0B  ;C447F0 |
+        db $00,$00,$00,$00,$07,$00,$F4,$0B  ;C447F8 |
+        db $00,$00,$00,$00,$07,$00,$F8,$0B  ;C44800 |
+        db $00,$00,$00,$00,$07,$00,$FC,$0B  ;C44808 |
+        db $00,$00,$00,$00,$07,$00,$00,$0C  ;C44810 |
+        db $00,$00,$00,$00,$07,$00,$04,$0C  ;C44818 |
+        db $00,$00,$00,$00,$07,$00,$08,$0C  ;C44820 |
+        db $00,$00,$00,$00,$07,$00,$0C,$0C  ;C44828 |
+        db $00,$00,$00,$00,$07,$00,$10,$0C  ;C44830 |
+        db $00,$00,$00,$00,$07,$00,$14,$0C  ;C44838 |
+        db $00,$00,$00,$00,$07,$00,$C8,$0B  ;C44840 |
+        db $00,$00,$00,$00,$07,$00,$CC,$0B  ;C44848 |
+        db $00,$00,$00,$00,$07,$00,$D0,$0B  ;C44850 |
+        db $00,$00,$00,$00,$07,$00,$D4,$0B  ;C44858 |
+        db $00,$00,$00,$00,$07,$00,$D8,$0B  ;C44860 |
+        db $00,$00,$00,$00,$07,$00,$DC,$0B  ;C44868 |
+        db $00,$00,$00,$00,$07,$00,$E0,$0B  ;C44870 |
+        db $00,$00,$00,$00,$07,$00,$E4,$0B  ;C44878 |
+        db $00,$00,$00,$00,$07,$00,$E8,$0B  ;C44880 |
+        db $00,$00,$00,$00,$07,$00,$EC,$0B  ;C44888 |
+        db $00,$00,$00,$00,$07,$00,$F0,$0B  ;C44890 |
+        db $00,$00,$00,$00,$07,$00,$F4,$0B  ;C44898 |
+        db $00,$00,$00,$00,$07,$00,$F8,$0B  ;C448A0 |
+        db $00,$00,$00,$00,$07,$00,$FC,$0B  ;C448A8 |
+        db $00,$00,$00,$00,$07,$00,$00,$0C  ;C448B0 |
+        db $00,$00,$00,$00,$07,$00,$04,$0C  ;C448B8 |
+        db $00,$00,$00,$00,$07,$00,$08,$0C  ;C448C0 |
+        db $00,$00,$00,$00,$07,$00,$0C,$0C  ;C448C8 |
+        db $00,$00,$00,$00,$07,$00,$10,$0C  ;C448D0 |
+        db $00,$00,$00,$00,$07,$00,$14,$0C  ;C448D8 |
+        db $00,$00,$00,$00,$07,$00,$50,$10  ;C448E0 |
+        db $00,$00,$00,$00,$07,$00,$54,$10  ;C448E8 |
+        db $00,$00,$00,$00,$07,$00,$58,$10  ;C448F0 |
+        db $00,$00,$00,$00,$07,$00,$5C,$10  ;C448F8 |
+        db $00,$00,$00,$00,$07,$00,$60,$10  ;C44900 |
+        db $00,$00,$00,$00,$07,$00,$64,$10  ;C44908 |
+        db $00,$00,$00,$00,$07,$00,$68,$10  ;C44910 |
+        db $00,$00,$00,$00,$07,$00,$6C,$10  ;C44918 |
+        db $00,$00,$00,$00,$07,$00,$70,$10  ;C44920 |
+        db $00,$00,$00,$00,$07,$00,$58,$10  ;C44928 |
+        db $00,$00,$00,$00,$07,$00,$5C,$10  ;C44930 |
+        db $00,$00,$00,$00,$07,$00,$60,$10  ;C44938 |
+        db $00,$00,$00,$00,$07,$00,$64,$10  ;C44940 |
+        db $00,$00,$00,$00,$07,$00,$68,$10  ;C44948 |
+        db $00,$00,$00,$00,$07,$00,$6C,$10  ;C44950 |
+        db $00,$00,$00,$00,$07,$00,$70,$10  ;C44958 |
+        db $00,$00,$00,$00,$07,$00,$58,$10  ;C44960 |
+        db $00,$00,$00,$00,$07,$00,$5C,$10  ;C44968 |
+        db $00,$00,$00,$00,$07,$00,$60,$10  ;C44970 |
+        db $00,$00,$00,$00,$07,$00,$64,$10  ;C44978 |
+        db $00,$00,$00,$00,$07,$00,$68,$10  ;C44980 |
+        db $00,$00,$00,$00,$07,$00,$6C,$10  ;C44988 |
+        db $00,$00,$00,$00,$07,$00,$70,$10  ;C44990 |
+        db $00,$00,$00,$00,$07,$00,$58,$10  ;C44998 |
+        db $00,$00,$00,$00,$07,$00,$5C,$10  ;C449A0 |
+        db $00,$00,$00,$00,$07,$00,$60,$10  ;C449A8 |
+        db $00,$00,$00,$00,$07,$00,$64,$10  ;C449B0 |
+        db $00,$00,$00,$00,$07,$00,$68,$10  ;C449B8 |
+        db $00,$00,$00,$00,$07,$00,$6C,$10  ;C449C0 |
+        db $00,$00,$00,$00,$07,$00,$70,$10  ;C449C8 |
+        db $00,$00,$00,$00,$07,$00,$58,$10  ;C449D0 |
+        db $00,$00,$00,$00,$07,$00,$5C,$10  ;C449D8 |
+        db $00,$00,$00,$00,$07,$00,$60,$10  ;C449E0 |
+        db $00,$00,$00,$00,$07,$00,$64,$10  ;C449E8 |
+        db $00,$00,$00,$00,$07,$00,$68,$10  ;C449F0 |
+        db $00,$00,$00,$00,$07,$00,$6C,$10  ;C449F8 |
+        db $00,$00,$00,$00,$07,$00,$70,$10  ;C44A00 |
+        db $00,$00,$00,$00,$07,$00,$54,$10  ;C44A08 |
+        db $00,$00,$00,$00,$07,$00,$50,$10  ;C44A10 |
+        db $00,$00,$00,$00,$FE,$FF          ;C44A18 |
+ 
+UNREACH_C44A1E:
+        db $00,$00,$00,$00,$07,$00,$18,$0C  ;C44A1E |
+        db $00,$00,$00,$00,$07,$00,$1C,$0C  ;C44A26 |
+        db $00,$00,$00,$00,$07,$00,$20,$0C  ;C44A2E |
+        db $00,$00,$00,$00,$07,$00,$24,$0C  ;C44A36 |
+        db $00,$00,$00,$00,$07,$00,$28,$0C  ;C44A3E |
+        db $00,$00,$00,$00,$07,$00,$2C,$0C  ;C44A46 |
+        db $00,$00,$00,$00,$07,$00,$30,$0C  ;C44A4E |
+        db $00,$00,$00,$00,$07,$00,$34,$0C  ;C44A56 |
+        db $00,$00,$00,$00,$07,$00,$38,$0C  ;C44A5E |
+        db $00,$00,$00,$00,$07,$00,$3C,$0C  ;C44A66 |
+        db $00,$00,$00,$00,$07,$00,$40,$0C  ;C44A6E |
+        db $00,$00,$00,$00,$07,$00,$44,$0C  ;C44A76 |
+        db $00,$00,$00,$00,$07,$00,$48,$0C  ;C44A7E |
+        db $00,$00,$00,$00,$07,$00,$4C,$0C  ;C44A86 |
+        db $00,$00,$00,$00,$07,$00,$50,$0C  ;C44A8E |
+        db $00,$00,$00,$00,$07,$00,$54,$0C  ;C44A96 |
+        db $00,$00,$00,$00,$07,$00,$58,$0C  ;C44A9E |
+        db $00,$00,$00,$00,$07,$00,$5C,$0C  ;C44AA6 |
+        db $00,$00,$00,$00,$07,$00,$60,$0C  ;C44AAE |
+        db $00,$00,$00,$00,$07,$00,$18,$0C  ;C44AB6 |
+        db $00,$00,$00,$00,$07,$00,$18,$0C  ;C44ABE |
+        db $00,$00,$00,$00,$07,$00,$1C,$0C  ;C44AC6 |
+        db $00,$00,$00,$00,$07,$00,$20,$0C  ;C44ACE |
+        db $00,$00,$00,$00,$07,$00,$24,$0C  ;C44AD6 |
+        db $00,$00,$00,$00,$07,$00,$28,$0C  ;C44ADE |
+        db $00,$00,$00,$00,$07,$00,$2C,$0C  ;C44AE6 |
+        db $00,$00,$00,$00,$07,$00,$30,$0C  ;C44AEE |
+        db $00,$00,$00,$00,$07,$00,$34,$0C  ;C44AF6 |
+        db $00,$00,$00,$00,$07,$00,$38,$0C  ;C44AFE |
+        db $00,$00,$00,$00,$07,$00,$3C,$0C  ;C44B06 |
+        db $00,$00,$00,$00,$07,$00,$40,$0C  ;C44B0E |
+        db $00,$00,$00,$00,$07,$00,$44,$0C  ;C44B16 |
+        db $00,$00,$00,$00,$07,$00,$48,$0C  ;C44B1E |
+        db $00,$00,$00,$00,$07,$00,$4C,$0C  ;C44B26 |
+        db $00,$00,$00,$00,$07,$00,$50,$0C  ;C44B2E |
+        db $00,$00,$00,$00,$07,$00,$54,$0C  ;C44B36 |
+        db $00,$00,$00,$00,$07,$00,$58,$0C  ;C44B3E |
+        db $00,$00,$00,$00,$07,$00,$5C,$0C  ;C44B46 |
+        db $00,$00,$00,$00,$07,$00,$60,$0C  ;C44B4E |
+        db $00,$00,$00,$00,$07,$00,$18,$0C  ;C44B56 |
+        db $00,$00,$00,$00,$07,$00,$74,$10  ;C44B5E |
+        db $00,$00,$00,$00,$07,$00,$78,$10  ;C44B66 |
+        db $00,$00,$00,$00,$07,$00,$7C,$10  ;C44B6E |
+        db $00,$00,$00,$00,$07,$00,$80,$10  ;C44B76 |
+        db $00,$00,$00,$00,$07,$00,$84,$10  ;C44B7E |
+        db $00,$00,$00,$00,$07,$00,$88,$10  ;C44B86 |
+        db $00,$00,$00,$00,$07,$00,$8C,$10  ;C44B8E |
+        db $00,$00,$00,$00,$07,$00,$90,$10  ;C44B96 |
+        db $00,$00,$00,$00,$07,$00,$94,$10  ;C44B9E |
+        db $00,$00,$00,$00,$07,$00,$7C,$10  ;C44BA6 |
+        db $00,$00,$00,$00,$07,$00,$80,$10  ;C44BAE |
+        db $00,$00,$00,$00,$07,$00,$84,$10  ;C44BB6 |
+        db $00,$00,$00,$00,$07,$00,$88,$10  ;C44BBE |
+        db $00,$00,$00,$00,$07,$00,$8C,$10  ;C44BC6 |
+        db $00,$00,$00,$00,$07,$00,$90,$10  ;C44BCE |
+        db $00,$00,$00,$00,$07,$00,$94,$10  ;C44BD6 |
+        db $00,$00,$00,$00,$07,$00,$7C,$10  ;C44BDE |
+        db $00,$00,$00,$00,$07,$00,$80,$10  ;C44BE6 |
+        db $00,$00,$00,$00,$07,$00,$84,$10  ;C44BEE |
+        db $00,$00,$00,$00,$07,$00,$88,$10  ;C44BF6 |
+        db $00,$00,$00,$00,$07,$00,$8C,$10  ;C44BFE |
+        db $00,$00,$00,$00,$07,$00,$90,$10  ;C44C06 |
+        db $00,$00,$00,$00,$07,$00,$94,$10  ;C44C0E |
+        db $00,$00,$00,$00,$07,$00,$7C,$10  ;C44C16 |
+        db $00,$00,$00,$00,$07,$00,$80,$10  ;C44C1E |
+        db $00,$00,$00,$00,$07,$00,$84,$10  ;C44C26 |
+        db $00,$00,$00,$00,$07,$00,$88,$10  ;C44C2E |
+        db $00,$00,$00,$00,$07,$00,$8C,$10  ;C44C36 |
+        db $00,$00,$00,$00,$07,$00,$90,$10  ;C44C3E |
+        db $00,$00,$00,$00,$07,$00,$94,$10  ;C44C46 |
+        db $00,$00,$00,$00,$07,$00,$7C,$10  ;C44C4E |
+        db $00,$00,$00,$00,$07,$00,$80,$10  ;C44C56 |
+        db $00,$00,$00,$00,$07,$00,$84,$10  ;C44C5E |
+        db $00,$00,$00,$00,$07,$00,$88,$10  ;C44C66 |
+        db $00,$00,$00,$00,$07,$00,$8C,$10  ;C44C6E |
+        db $00,$00,$00,$00,$07,$00,$90,$10  ;C44C76 |
+        db $00,$00,$00,$00,$07,$00,$94,$10  ;C44C7E |
+        db $00,$00,$00,$00,$07,$00,$78,$10  ;C44C86 |
+        db $00,$00,$00,$00,$07,$00,$74,$10  ;C44C8E |
+        db $00,$00,$00,$00,$FE,$FF          ;C44C96 |
+ 
+UNREACH_C44C9C:
         db $00,$00,$00,$00,$07,$00,$64,$0C  ;C44C9C |
         db $00,$00,$00,$00,$07,$00,$68,$0C  ;C44CA4 |
         db $00,$00,$00,$00,$07,$00,$6C,$0C  ;C44CAC |
@@ -5976,115 +6239,134 @@ UNREACH_C41858:
         db $00,$00,$00,$00,$07,$00,$B8,$10  ;C44EFC |
         db $00,$00,$00,$00,$07,$00,$9C,$10  ;C44F04 |
         db $00,$00,$00,$00,$07,$00,$98,$10  ;C44F0C |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C44F14 |
-        db $00,$00,$01,$00,$7C,$0B,$00,$00  ;C44F1C |
-        db $00,$00,$01,$00,$BC,$10,$00,$00  ;C44F24 |
-        db $00,$00,$01,$00,$C0,$10,$00,$00  ;C44F2C |
-        db $00,$00,$01,$00,$C4,$10,$00,$00  ;C44F34 |
-        db $00,$00,$01,$00,$C8,$10,$00,$00  ;C44F3C |
-        db $00,$00,$01,$00,$CC,$10,$00,$00  ;C44F44 |
-        db $00,$00,$01,$00,$D0,$10,$00,$00  ;C44F4C |
-        db $00,$00,$01,$00,$D4,$10,$00,$00  ;C44F54 |
-        db $00,$00,$01,$00,$D8,$10,$00,$00  ;C44F5C |
-        db $00,$00,$01,$00,$DC,$10,$00,$00  ;C44F64 |
-        db $00,$00,$01,$00,$E0,$10,$00,$00  ;C44F6C |
-        db $00,$00,$01,$00,$7C,$0B,$AE,$B1  ;C44F74 |
-        db $01,$00,$01,$00,$7C,$0B,$00,$00  ;C44F7C |
-        db $00,$00,$01,$00,$C8,$0B,$00,$00  ;C44F84 |
-        db $00,$00,$01,$00,$E4,$10,$00,$00  ;C44F8C |
-        db $00,$00,$01,$00,$E8,$10,$00,$00  ;C44F94 |
-        db $00,$00,$01,$00,$EC,$10,$00,$00  ;C44F9C |
-        db $00,$00,$01,$00,$F0,$10,$00,$00  ;C44FA4 |
-        db $00,$00,$01,$00,$F4,$10,$00,$00  ;C44FAC |
-        db $00,$00,$01,$00,$F8,$10,$00,$00  ;C44FB4 |
-        db $00,$00,$01,$00,$FC,$10,$00,$00  ;C44FBC |
-        db $00,$00,$01,$00,$00,$11,$00,$00  ;C44FC4 |
-        db $00,$00,$01,$00,$04,$11,$00,$00  ;C44FCC |
-        db $00,$00,$01,$00,$08,$11,$00,$00  ;C44FD4 |
-        db $00,$00,$FF,$00,$14,$0C,$00,$00  ;C44FDC |
-        db $00,$00,$01,$00,$18,$0C,$00,$00  ;C44FE4 |
-        db $00,$00,$01,$00,$0C,$11,$00,$00  ;C44FEC |
-        db $00,$00,$01,$00,$10,$11,$00,$00  ;C44FF4 |
-        db $00,$00,$01,$00,$14,$11,$00,$00  ;C44FFC |
-        db $00,$00,$01,$00,$18,$11,$00,$00  ;C45004 |
-        db $00,$00,$01,$00,$1C,$11,$00,$00  ;C4500C |
-        db $00,$00,$01,$00,$20,$11,$00,$00  ;C45014 |
-        db $00,$00,$01,$00,$24,$11,$00,$00  ;C4501C |
-        db $00,$00,$01,$00,$28,$11,$00,$00  ;C45024 |
-        db $00,$00,$01,$00,$2C,$11,$00,$00  ;C4502C |
-        db $00,$00,$01,$00,$30,$11,$00,$00  ;C45034 |
-        db $00,$00,$01,$00,$18,$0C,$AE,$B1  ;C4503C |
-        db $01,$00,$01,$00,$18,$0C,$00,$00  ;C45044 |
-        db $00,$00,$01,$00,$64,$0C,$00,$00  ;C4504C |
-        db $00,$00,$01,$00,$34,$11,$00,$00  ;C45054 |
-        db $00,$00,$01,$00,$38,$11,$00,$00  ;C4505C |
-        db $00,$00,$01,$00,$3C,$11,$00,$00  ;C45064 |
-        db $00,$00,$01,$00,$40,$11,$00,$00  ;C4506C |
-        db $00,$00,$01,$00,$44,$11,$00,$00  ;C45074 |
-        db $00,$00,$01,$00,$48,$11,$00,$00  ;C4507C |
-        db $00,$00,$01,$00,$4C,$11,$00,$00  ;C45084 |
-        db $00,$00,$01,$00,$50,$11,$00,$00  ;C4508C |
-        db $00,$00,$01,$00,$54,$11,$00,$00  ;C45094 |
-        db $00,$00,$01,$00,$58,$11,$00,$00  ;C4509C |
-        db $00,$00,$FF,$00,$B0,$0C,$00,$00  ;C450A4 |
-        db $00,$00,$02,$00,$6C,$0E,$00,$00  ;C450AC |
-        db $00,$00,$01,$00,$70,$0E,$00,$00  ;C450B4 |
-        db $00,$00,$02,$00,$74,$0E,$00,$00  ;C450BC |
-        db $00,$00,$01,$00,$78,$0E,$00,$00  ;C450C4 |
-        db $00,$00,$02,$00,$7C,$0E,$00,$00  ;C450CC |
-        db $00,$00,$01,$00,$80,$0E,$00,$00  ;C450D4 |
-        db $00,$00,$02,$00,$84,$0E,$00,$00  ;C450DC |
-        db $00,$00,$01,$00,$88,$0E,$FE,$B0  ;C450E4 |
-        db $01,$00,$02,$00,$8C,$0E,$00,$00  ;C450EC |
-        db $00,$00,$01,$00,$90,$0E,$00,$00  ;C450F4 |
-        db $00,$00,$02,$00,$94,$0E,$00,$00  ;C450FC |
-        db $00,$00,$01,$00,$98,$0E,$00,$00  ;C45104 |
-        db $00,$00,$02,$00,$9C,$0E,$00,$00  ;C4510C |
-        db $00,$00,$01,$00,$A0,$0E,$AE,$B1  ;C45114 |
-        db $01,$00,$02,$00,$A0,$0E,$00,$00  ;C4511C |
-        db $00,$00,$02,$00,$34,$0E,$00,$00  ;C45124 |
-        db $00,$00,$01,$00,$38,$0E,$00,$00  ;C4512C |
-        db $00,$00,$02,$00,$3C,$0E,$00,$00  ;C45134 |
-        db $00,$00,$01,$00,$40,$0E,$00,$00  ;C4513C |
-        db $00,$00,$02,$00,$44,$0E,$00,$00  ;C45144 |
-        db $00,$00,$01,$00,$48,$0E,$00,$00  ;C4514C |
-        db $00,$00,$02,$00,$4C,$0E,$00,$00  ;C45154 |
-        db $00,$00,$01,$00,$50,$0E,$00,$00  ;C4515C |
-        db $00,$00,$02,$00,$54,$0E,$00,$00  ;C45164 |
-        db $00,$00,$01,$00,$58,$0E,$00,$00  ;C4516C |
-        db $00,$00,$02,$00,$5C,$0E,$00,$00  ;C45174 |
-        db $00,$00,$01,$00,$60,$0E,$00,$00  ;C4517C |
-        db $00,$00,$02,$00,$64,$0E,$00,$00  ;C45184 |
-        db $00,$00,$FF,$00,$68,$0E,$00,$00  ;C4518C |
-        db $00,$00,$02,$00,$14,$0F,$00,$00  ;C45194 |
-        db $00,$00,$01,$00,$18,$0F,$00,$00  ;C4519C |
-        db $00,$00,$02,$00,$1C,$0F,$00,$00  ;C451A4 |
-        db $00,$00,$01,$00,$20,$0F,$00,$00  ;C451AC |
-        db $00,$00,$02,$00,$24,$0F,$00,$00  ;C451B4 |
-        db $00,$00,$01,$00,$28,$0F,$00,$00  ;C451BC |
-        db $00,$00,$02,$00,$2C,$0F,$00,$00  ;C451C4 |
-        db $00,$00,$01,$00,$30,$0F,$FE,$B0  ;C451CC |
-        db $01,$00,$02,$00,$34,$0F,$00,$00  ;C451D4 |
-        db $00,$00,$01,$00,$38,$0F,$00,$00  ;C451DC |
-        db $00,$00,$02,$00,$3C,$0F,$00,$00  ;C451E4 |
-        db $00,$00,$01,$00,$40,$0F,$00,$00  ;C451EC |
-        db $00,$00,$02,$00,$44,$0F,$00,$00  ;C451F4 |
-        db $00,$00,$01,$00,$48,$0F,$AE,$B1  ;C451FC |
-        db $01,$00,$02,$00,$48,$0F,$00,$00  ;C45204 |
-        db $00,$00,$02,$00,$DC,$0E,$00,$00  ;C4520C |
-        db $00,$00,$01,$00,$E0,$0E,$00,$00  ;C45214 |
-        db $00,$00,$02,$00,$E4,$0E,$00,$00  ;C4521C |
-        db $00,$00,$01,$00,$E8,$0E,$00,$00  ;C45224 |
-        db $00,$00,$02,$00,$EC,$0E,$00,$00  ;C4522C |
-        db $00,$00,$01,$00,$F0,$0E,$00,$00  ;C45234 |
-        db $00,$00,$02,$00,$F4,$0E,$00,$00  ;C4523C |
-        db $00,$00,$01,$00,$F8,$0E,$00,$00  ;C45244 |
-        db $00,$00,$02,$00,$FC,$0E,$00,$00  ;C4524C |
-        db $00,$00,$01,$00,$00,$0F,$00,$00  ;C45254 |
-        db $00,$00,$02,$00,$04,$0F,$00,$00  ;C4525C |
-        db $00,$00,$01,$00,$08,$0F,$00,$00  ;C45264 |
-        db $00,$00,$02,$00,$0C,$0F,$00,$00  ;C4526C |
-        db $00,$00,$FF,$00,$10,$0F,$00,$00  ;C45274 |
+        db $00,$00,$00,$00,$FE,$FF          ;C44F14 |
+ 
+UNREACH_C44F1A:
+        db $00,$00,$00,$00,$01,$00,$7C,$0B  ;C44F1A |
+        db $00,$00,$00,$00,$01,$00,$BC,$10  ;C44F22 |
+        db $00,$00,$00,$00,$01,$00,$C0,$10  ;C44F2A |
+        db $00,$00,$00,$00,$01,$00,$C4,$10  ;C44F32 |
+        db $00,$00,$00,$00,$01,$00,$C8,$10  ;C44F3A |
+        db $00,$00,$00,$00,$01,$00,$CC,$10  ;C44F42 |
+        db $00,$00,$00,$00,$01,$00,$D0,$10  ;C44F4A |
+        db $00,$00,$00,$00,$01,$00,$D4,$10  ;C44F52 |
+        db $00,$00,$00,$00,$01,$00,$D8,$10  ;C44F5A |
+        db $00,$00,$00,$00,$01,$00,$DC,$10  ;C44F62 |
+        db $00,$00,$00,$00,$01,$00,$E0,$10  ;C44F6A |
+        db $00,$00,$00,$00,$01,$00,$7C,$0B  ;C44F72 |
+        db $AE,$B1,$01,$00,$01,$00,$7C,$0B  ;C44F7A |
+ 
+UNREACH_C44F82:
+        db $00,$00,$00,$00,$01,$00,$C8,$0B  ;C44F82 |
+        db $00,$00,$00,$00,$01,$00,$E4,$10  ;C44F8A |
+        db $00,$00,$00,$00,$01,$00,$E8,$10  ;C44F92 |
+        db $00,$00,$00,$00,$01,$00,$EC,$10  ;C44F9A |
+        db $00,$00,$00,$00,$01,$00,$F0,$10  ;C44FA2 |
+        db $00,$00,$00,$00,$01,$00,$F4,$10  ;C44FAA |
+        db $00,$00,$00,$00,$01,$00,$F8,$10  ;C44FB2 |
+        db $00,$00,$00,$00,$01,$00,$FC,$10  ;C44FBA |
+        db $00,$00,$00,$00,$01,$00,$00,$11  ;C44FC2 |
+        db $00,$00,$00,$00,$01,$00,$04,$11  ;C44FCA |
+        db $00,$00,$00,$00,$01,$00,$08,$11  ;C44FD2 |
+        db $00,$00,$00,$00,$FF,$00,$14,$0C  ;C44FDA |
+ 
+UNREACH_C44FE2:
+        db $00,$00,$00,$00,$01,$00,$18,$0C  ;C44FE2 |
+        db $00,$00,$00,$00,$01,$00,$0C,$11  ;C44FEA |
+        db $00,$00,$00,$00,$01,$00,$10,$11  ;C44FF2 |
+        db $00,$00,$00,$00,$01,$00,$14,$11  ;C44FFA |
+        db $00,$00,$00,$00,$01,$00,$18,$11  ;C45002 |
+        db $00,$00,$00,$00,$01,$00,$1C,$11  ;C4500A |
+        db $00,$00,$00,$00,$01,$00,$20,$11  ;C45012 |
+        db $00,$00,$00,$00,$01,$00,$24,$11  ;C4501A |
+        db $00,$00,$00,$00,$01,$00,$28,$11  ;C45022 |
+        db $00,$00,$00,$00,$01,$00,$2C,$11  ;C4502A |
+        db $00,$00,$00,$00,$01,$00,$30,$11  ;C45032 |
+        db $00,$00,$00,$00,$01,$00,$18,$0C  ;C4503A |
+        db $AE,$B1,$01,$00,$01,$00,$18,$0C  ;C45042 |
+ 
+UNREACH_C4504A:
+        db $00,$00,$00,$00,$01,$00,$64,$0C  ;C4504A |
+        db $00,$00,$00,$00,$01,$00,$34,$11  ;C45052 |
+        db $00,$00,$00,$00,$01,$00,$38,$11  ;C4505A |
+        db $00,$00,$00,$00,$01,$00,$3C,$11  ;C45062 |
+        db $00,$00,$00,$00,$01,$00,$40,$11  ;C4506A |
+        db $00,$00,$00,$00,$01,$00,$44,$11  ;C45072 |
+        db $00,$00,$00,$00,$01,$00,$48,$11  ;C4507A |
+        db $00,$00,$00,$00,$01,$00,$4C,$11  ;C45082 |
+        db $00,$00,$00,$00,$01,$00,$50,$11  ;C4508A |
+        db $00,$00,$00,$00,$01,$00,$54,$11  ;C45092 |
+        db $00,$00,$00,$00,$01,$00,$58,$11  ;C4509A |
+        db $00,$00,$00,$00,$FF,$00,$B0,$0C  ;C450A2 |
+ 
+UNREACH_C450AA:
+        db $00,$00,$00,$00,$02,$00,$6C,$0E  ;C450AA |
+        db $00,$00,$00,$00,$01,$00,$70,$0E  ;C450B2 |
+        db $00,$00,$00,$00,$02,$00,$74,$0E  ;C450BA |
+        db $00,$00,$00,$00,$01,$00,$78,$0E  ;C450C2 |
+        db $00,$00,$00,$00,$02,$00,$7C,$0E  ;C450CA |
+        db $00,$00,$00,$00,$01,$00,$80,$0E  ;C450D2 |
+        db $00,$00,$00,$00,$02,$00,$84,$0E  ;C450DA |
+        db $00,$00,$00,$00,$01,$00,$88,$0E  ;C450E2 |
+        db $FE,$B0,$01,$00,$02,$00,$8C,$0E  ;C450EA |
+        db $00,$00,$00,$00,$01,$00,$90,$0E  ;C450F2 |
+        db $00,$00,$00,$00,$02,$00,$94,$0E  ;C450FA |
+        db $00,$00,$00,$00,$01,$00,$98,$0E  ;C45102 |
+        db $00,$00,$00,$00,$02,$00,$9C,$0E  ;C4510A |
+        db $00,$00,$00,$00,$01,$00,$A0,$0E  ;C45112 |
+        db $AE,$B1,$01,$00,$02,$00,$A0,$0E  ;C4511A |
+ 
+UNREACH_C45122:
+        db $00,$00,$00,$00,$02,$00,$34,$0E  ;C45122 |
+        db $00,$00,$00,$00,$01,$00,$38,$0E  ;C4512A |
+        db $00,$00,$00,$00,$02,$00,$3C,$0E  ;C45132 |
+        db $00,$00,$00,$00,$01,$00,$40,$0E  ;C4513A |
+        db $00,$00,$00,$00,$02,$00,$44,$0E  ;C45142 |
+        db $00,$00,$00,$00,$01,$00,$48,$0E  ;C4514A |
+        db $00,$00,$00,$00,$02,$00,$4C,$0E  ;C45152 |
+        db $00,$00,$00,$00,$01,$00,$50,$0E  ;C4515A |
+        db $00,$00,$00,$00,$02,$00,$54,$0E  ;C45162 |
+        db $00,$00,$00,$00,$01,$00,$58,$0E  ;C4516A |
+        db $00,$00,$00,$00,$02,$00,$5C,$0E  ;C45172 |
+        db $00,$00,$00,$00,$01,$00,$60,$0E  ;C4517A |
+        db $00,$00,$00,$00,$02,$00,$64,$0E  ;C45182 |
+        db $00,$00,$00,$00,$FF,$00,$68,$0E  ;C4518A |
+ 
+UNREACH_C45192:
+        db $00,$00,$00,$00,$02,$00,$14,$0F  ;C45192 |
+        db $00,$00,$00,$00,$01,$00,$18,$0F  ;C4519A |
+        db $00,$00,$00,$00,$02,$00,$1C,$0F  ;C451A2 |
+        db $00,$00,$00,$00,$01,$00,$20,$0F  ;C451AA |
+        db $00,$00,$00,$00,$02,$00,$24,$0F  ;C451B2 |
+        db $00,$00,$00,$00,$01,$00,$28,$0F  ;C451BA |
+        db $00,$00,$00,$00,$02,$00,$2C,$0F  ;C451C2 |
+        db $00,$00,$00,$00,$01,$00,$30,$0F  ;C451CA |
+        db $FE,$B0,$01,$00,$02,$00,$34,$0F  ;C451D2 |
+        db $00,$00,$00,$00,$01,$00,$38,$0F  ;C451DA |
+        db $00,$00,$00,$00,$02,$00,$3C,$0F  ;C451E2 |
+        db $00,$00,$00,$00,$01,$00,$40,$0F  ;C451EA |
+        db $00,$00,$00,$00,$02,$00,$44,$0F  ;C451F2 |
+        db $00,$00,$00,$00,$01,$00,$48,$0F  ;C451FA |
+        db $AE,$B1,$01,$00,$02,$00,$48,$0F  ;C45202 |
+ 
+UNREACH_C4520A:
+        db $00,$00,$00,$00,$02,$00,$DC,$0E  ;C4520A |
+        db $00,$00,$00,$00,$01,$00,$E0,$0E  ;C45212 |
+        db $00,$00,$00,$00,$02,$00,$E4,$0E  ;C4521A |
+        db $00,$00,$00,$00,$01,$00,$E8,$0E  ;C45222 |
+        db $00,$00,$00,$00,$02,$00,$EC,$0E  ;C4522A |
+        db $00,$00,$00,$00,$01,$00,$F0,$0E  ;C45232 |
+        db $00,$00,$00,$00,$02,$00,$F4,$0E  ;C4523A |
+        db $00,$00,$00,$00,$01,$00,$F8,$0E  ;C45242 |
+        db $00,$00,$00,$00,$02,$00,$FC,$0E  ;C4524A |
+        db $00,$00,$00,$00,$01,$00,$00,$0F  ;C45252 |
+        db $00,$00,$00,$00,$02,$00,$04,$0F  ;C4525A |
+        db $00,$00,$00,$00,$01,$00,$08,$0F  ;C45262 |
+        db $00,$00,$00,$00,$02,$00,$0C,$0F  ;C4526A |
+        db $00,$00,$00,$00,$FF,$00,$10,$0F  ;C45272 |
+ 
+UNREACH_C4527A:
+        db $00,$00                          ;C4527A |
         db $00,$00,$02,$00,$A4,$0E          ;C4527C |
         db $00,$00                          ;C45282 |
         db $00,$00,$01,$00,$A8,$0E          ;C45284 |
@@ -6113,6 +6395,8 @@ UNREACH_C41858:
         db $00,$00                          ;C452E2 |
         db $00,$00,$01,$00,$D8,$0E,$AE,$B1  ;C452E4 |
         db $01,$00,$02,$00,$D8,$0E          ;C452EC |
+ 
+UNREACH_C452F2:
         db $00,$00                          ;C452F2 |
         db $00,$00,$00,$00,$64,$13          ;C452F4 |
         db $00,$00                          ;C452FA |
@@ -6141,6 +6425,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$98,$13          ;C4535C |
         db $00,$00                          ;C45362 |
         db $00,$00,$FE,$FF                  ;C45364 |
+ 
+UNREACH_C45368:
         db $00,$00                          ;C45368 |
         db $00,$00,$00,$00,$2C,$13          ;C4536A |
         db $00,$00                          ;C45370 |
@@ -6169,6 +6455,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$60,$13          ;C453D2 |
         db $00,$00                          ;C453D8 |
         db $00,$00,$FE,$FF                  ;C453DA |
+ 
+UNREACH_C453DE:
         db $00,$00                          ;C453DE |
         db $00,$00,$00,$00,$1C,$16          ;C453E0 |
         db $00,$00                          ;C453E6 |
@@ -6184,6 +6472,8 @@ UNREACH_C41858:
         db $00,$00,$02,$00,$34,$16          ;C45410 |
         db $00,$00                          ;C45416 |
         db $00,$00,$FE,$FF                  ;C45418 |
+ 
+UNREACH_C4541C:
         db $00,$00                          ;C4541C |
         db $00,$00,$05,$00,$38,$16          ;C4541E |
         db $00,$00                          ;C45424 |
@@ -6196,6 +6486,8 @@ UNREACH_C41858:
         db $00,$00,$05,$00,$48,$16          ;C4543E |
         db $00,$00                          ;C45444 |
         db $00,$00,$FE,$FF                  ;C45446 |
+ 
+UNREACH_C4544A:
         db $00,$00                          ;C4544A |
         db $00,$00,$01,$00,$9C,$13          ;C4544C |
         db $00,$00                          ;C45452 |
@@ -6233,6 +6525,8 @@ UNREACH_C41858:
         db $00,$00                          ;C454DA |
         db $00,$00,$01,$00,$E4,$13,$AE,$B1  ;C454DC |
         db $01,$00,$01,$00,$E4,$13          ;C454E4 |
+ 
+UNREACH_C454EA:
         db $00,$00                          ;C454EA |
         db $00,$00,$01,$00,$E8,$13          ;C454EC |
         db $00,$00                          ;C454F2 |
@@ -6270,6 +6564,8 @@ UNREACH_C41858:
         db $00,$00                          ;C4557A |
         db $00,$00,$01,$00,$30,$14,$AE,$B1  ;C4557C |
         db $01,$00,$01,$00,$30,$14          ;C45584 |
+ 
+UNREACH_C4558A:
         db $00,$00                          ;C4558A |
         db $00,$00,$01,$00,$70,$14          ;C4558C |
         db $00,$00                          ;C45592 |
@@ -6301,22 +6597,41 @@ UNREACH_C41858:
         db $00,$00                          ;C455FA |
         db $00,$00,$01,$00,$A8,$14,$AE,$B1  ;C455FC |
         db $01,$00,$01,$00,$A8,$14          ;C45604 |
-        db $00,$00,$00,$00,$01,$00,$34,$14  ;C4560A |
-        db $00,$00,$00,$00,$01,$00,$38,$14  ;C45612 |
-        db $00,$00,$00,$00,$01,$00,$3C,$14  ;C4561A |
-        db $00,$00,$00,$00,$01,$00,$40,$14  ;C45622 |
-        db $00,$00,$00,$00,$01,$00,$44,$14  ;C4562A |
-        db $00,$00,$00,$00,$01,$00,$48,$14  ;C45632 |
-        db $00,$00,$00,$00,$01,$00,$4C,$14  ;C4563A |
-        db $00,$00,$00,$00,$01,$00,$50,$14  ;C45642 |
-        db $00,$00,$00,$00,$01,$00,$54,$14  ;C4564A |
-        db $00,$00,$00,$00,$01,$00,$58,$14  ;C45652 |
-        db $00,$00,$00,$00,$01,$00,$5C,$14  ;C4565A |
-        db $00,$00,$00,$00,$01,$00,$60,$14  ;C45662 |
-        db $00,$00,$00,$00,$01,$00,$64,$14  ;C4566A |
-        db $00,$00,$00,$00,$01,$00,$68,$14  ;C45672 |
-        db $00,$00,$00,$00,$01,$00,$6C,$14  ;C4567A |
-        db $AE,$B1,$01,$00,$01,$00,$6C,$14  ;C45682 |
+ 
+UNREACH_C4560A:
+        db $00,$00                          ;C4560A |
+        db $00,$00,$01,$00,$34,$14          ;C4560C |
+        db $00,$00                          ;C45612 |
+        db $00,$00,$01,$00,$38,$14          ;C45614 |
+        db $00,$00                          ;C4561A |
+        db $00,$00,$01,$00,$3C,$14          ;C4561C |
+        db $00,$00                          ;C45622 |
+        db $00,$00,$01,$00,$40,$14          ;C45624 |
+        db $00,$00                          ;C4562A |
+        db $00,$00,$01,$00,$44,$14          ;C4562C |
+        db $00,$00                          ;C45632 |
+        db $00,$00,$01,$00,$48,$14          ;C45634 |
+        db $00,$00                          ;C4563A |
+        db $00,$00,$01,$00,$4C,$14          ;C4563C |
+        db $00,$00                          ;C45642 |
+        db $00,$00,$01,$00,$50,$14          ;C45644 |
+        db $00,$00                          ;C4564A |
+        db $00,$00,$01,$00,$54,$14          ;C4564C |
+        db $00,$00                          ;C45652 |
+        db $00,$00,$01,$00,$58,$14          ;C45654 |
+        db $00,$00                          ;C4565A |
+        db $00,$00,$01,$00,$5C,$14          ;C4565C |
+        db $00,$00                          ;C45662 |
+        db $00,$00,$01,$00,$60,$14          ;C45664 |
+        db $00,$00                          ;C4566A |
+        db $00,$00,$01,$00,$64,$14          ;C4566C |
+        db $00,$00                          ;C45672 |
+        db $00,$00,$01,$00,$68,$14          ;C45674 |
+        db $00,$00                          ;C4567A |
+        db $00,$00,$01,$00,$6C,$14,$AE,$B1  ;C4567C |
+        db $01,$00,$01,$00,$6C,$14          ;C45684 |
+ 
+UNREACH_C4568A:
         db $00,$00                          ;C4568A |
         db $00,$00,$03,$00,$F8,$15          ;C4568C |
         db $00,$00                          ;C45692 |
@@ -6337,6 +6652,8 @@ UNREACH_C41858:
         db $00,$00,$03,$00,$18,$16          ;C456CC |
         db $00,$00                          ;C456D2 |
         db $00,$00,$FE,$FF                  ;C456D4 |
+ 
+UNREACH_C456D8:
         db $00,$00                          ;C456D8 |
         db $00,$00,$03,$00,$D4,$15          ;C456DA |
         db $00,$00                          ;C456E0 |
@@ -6357,6 +6674,8 @@ UNREACH_C41858:
         db $00,$00,$03,$00,$F4,$15          ;C4571A |
         db $00,$00                          ;C45720 |
         db $00,$00,$FE,$FF                  ;C45722 |
+ 
+UNREACH_C45726:
         db $00,$00                          ;C45726 |
         db $00,$00,$01,$00,$F0,$14          ;C45728 |
         db $00,$00                          ;C4572E |
@@ -6432,77 +6751,159 @@ UNREACH_C41858:
         db $00,$00                          ;C45846 |
         db $00,$00,$03,$00,$D0,$15,$AE,$B1  ;C45848 |
         db $01,$00,$01,$00,$D0,$15          ;C45850 |
-        db $00,$00,$00,$00,$01,$00,$AC,$14  ;C45856 |
-        db $00,$00,$00,$00,$01,$00,$B0,$14  ;C4585E |
-        db $00,$00,$00,$00,$01,$00,$B4,$14  ;C45866 |
-        db $00,$00,$00,$00,$01,$00,$B8,$14  ;C4586E |
-        db $00,$00,$00,$00,$01,$00,$BC,$14  ;C45876 |
-        db $00,$00,$00,$00,$01,$00,$C0,$14  ;C4587E |
-        db $00,$00,$00,$00,$01,$00,$C4,$14  ;C45886 |
-        db $00,$00,$00,$00,$01,$00,$C8,$14  ;C4588E |
-        db $00,$00,$00,$00,$01,$00,$CC,$14  ;C45896 |
-        db $00,$00,$00,$00,$01,$00,$D0,$14  ;C4589E |
-        db $00,$00,$00,$00,$01,$00,$D4,$14  ;C458A6 |
-        db $00,$00,$00,$00,$01,$00,$D8,$14  ;C458AE |
-        db $00,$00,$00,$00,$01,$00,$DC,$14  ;C458B6 |
-        db $00,$00,$00,$00,$01,$00,$E0,$14  ;C458BE |
-        db $00,$00,$00,$00,$01,$00,$E4,$14  ;C458C6 |
-        db $00,$00,$00,$00,$01,$00,$E8,$14  ;C458CE |
-        db $00,$00,$00,$00,$14,$00,$EC,$14  ;C458D6 |
-        db $00,$00,$00,$00,$03,$00,$34,$15  ;C458DE |
-        db $00,$00,$00,$00,$03,$00,$38,$15  ;C458E6 |
-        db $00,$00,$00,$00,$03,$00,$3C,$15  ;C458EE |
-        db $00,$00,$00,$00,$03,$00,$40,$15  ;C458F6 |
-        db $00,$00,$00,$00,$03,$00,$44,$15  ;C458FE |
-        db $00,$00,$00,$00,$03,$00,$48,$15  ;C45906 |
-        db $00,$00,$00,$00,$03,$00,$4C,$15  ;C4590E |
-        db $00,$00,$00,$00,$03,$00,$50,$15  ;C45916 |
-        db $00,$00,$00,$00,$03,$00,$54,$15  ;C4591E |
-        db $00,$00,$00,$00,$03,$00,$58,$15  ;C45926 |
-        db $00,$00,$00,$00,$03,$00,$5C,$15  ;C4592E |
-        db $00,$00,$00,$00,$03,$00,$60,$15  ;C45936 |
-        db $00,$00,$00,$00,$03,$00,$64,$15  ;C4593E |
-        db $00,$00,$00,$00,$03,$00,$68,$15  ;C45946 |
-        db $00,$00,$00,$00,$03,$00,$6C,$15  ;C4594E |
-        db $00,$00,$00,$00,$03,$00,$70,$15  ;C45956 |
-        db $00,$00,$00,$00,$03,$00,$74,$15  ;C4595E |
-        db $00,$00,$00,$00,$03,$00,$78,$15  ;C45966 |
-        db $00,$00,$00,$00,$03,$00,$7C,$15  ;C4596E |
-        db $00,$00,$00,$00,$03,$00,$80,$15  ;C45976 |
-        db $AE,$B1,$01,$00,$01,$00,$80,$15  ;C4597E |
-        db $00,$00,$00,$00,$00,$00,$4C,$16  ;C45986 |
-        db $00,$00,$00,$00,$03,$00,$50,$16  ;C4598E |
-        db $00,$00,$00,$00,$03,$00,$54,$16  ;C45996 |
-        db $00,$00,$00,$00,$03,$00,$58,$16  ;C4599E |
-        db $25,$B0,$01,$00,$03,$00,$5C,$16  ;C459A6 |
-        db $00,$00,$00,$00,$03,$00,$60,$16  ;C459AE |
-        db $00,$00,$00,$00,$03,$00,$64,$16  ;C459B6 |
-        db $00,$00,$00,$00,$03,$00,$68,$16  ;C459BE |
-        db $00,$00,$00,$00,$FE,$FF,$00,$00  ;C459C6 |
-        db $00,$00,$00,$00,$6C,$16,$00,$00  ;C459CE |
-        db $00,$00,$03,$00,$70,$16,$00,$00  ;C459D6 |
-        db $00,$00,$03,$00,$74,$16,$00,$00  ;C459DE |
+ 
+UNREACH_C45856:
+        db $00,$00                          ;C45856 |
+        db $00,$00,$01,$00,$AC,$14          ;C45858 |
+        db $00,$00                          ;C4585E |
+        db $00,$00,$01,$00,$B0,$14          ;C45860 |
+        db $00,$00                          ;C45866 |
+        db $00,$00,$01,$00,$B4,$14          ;C45868 |
+        db $00,$00                          ;C4586E |
+        db $00,$00,$01,$00,$B8,$14          ;C45870 |
+        db $00,$00                          ;C45876 |
+        db $00,$00,$01,$00,$BC,$14          ;C45878 |
+        db $00,$00                          ;C4587E |
+        db $00,$00,$01,$00,$C0,$14          ;C45880 |
+        db $00,$00                          ;C45886 |
+        db $00,$00,$01,$00,$C4,$14          ;C45888 |
+        db $00,$00                          ;C4588E |
+        db $00,$00,$01,$00,$C8,$14          ;C45890 |
+        db $00,$00                          ;C45896 |
+        db $00,$00,$01,$00,$CC,$14          ;C45898 |
+        db $00,$00                          ;C4589E |
+        db $00,$00,$01,$00,$D0,$14          ;C458A0 |
+        db $00,$00                          ;C458A6 |
+        db $00,$00,$01,$00,$D4,$14          ;C458A8 |
+        db $00,$00                          ;C458AE |
+        db $00,$00,$01,$00,$D8,$14          ;C458B0 |
+        db $00,$00                          ;C458B6 |
+        db $00,$00,$01,$00,$DC,$14          ;C458B8 |
+        db $00,$00                          ;C458BE |
+        db $00,$00,$01,$00,$E0,$14          ;C458C0 |
+        db $00,$00                          ;C458C6 |
+        db $00,$00,$01,$00,$E4,$14          ;C458C8 |
+        db $00,$00                          ;C458CE |
+        db $00,$00,$01,$00,$E8,$14          ;C458D0 |
+        db $00,$00                          ;C458D6 |
+        db $00,$00,$14,$00,$EC,$14          ;C458D8 |
+        db $00,$00                          ;C458DE |
+        db $00,$00,$03,$00,$34,$15          ;C458E0 |
+        db $00,$00                          ;C458E6 |
+        db $00,$00,$03,$00,$38,$15          ;C458E8 |
+        db $00,$00                          ;C458EE |
+        db $00,$00,$03,$00,$3C,$15          ;C458F0 |
+        db $00,$00                          ;C458F6 |
+        db $00,$00,$03,$00,$40,$15          ;C458F8 |
+        db $00,$00                          ;C458FE |
+        db $00,$00,$03,$00,$44,$15          ;C45900 |
+        db $00,$00                          ;C45906 |
+        db $00,$00,$03,$00,$48,$15          ;C45908 |
+        db $00,$00                          ;C4590E |
+        db $00,$00,$03,$00,$4C,$15          ;C45910 |
+        db $00,$00                          ;C45916 |
+        db $00,$00,$03,$00,$50,$15          ;C45918 |
+        db $00,$00                          ;C4591E |
+        db $00,$00,$03,$00,$54,$15          ;C45920 |
+        db $00,$00                          ;C45926 |
+        db $00,$00,$03,$00,$58,$15          ;C45928 |
+        db $00,$00                          ;C4592E |
+        db $00,$00,$03,$00,$5C,$15          ;C45930 |
+        db $00,$00                          ;C45936 |
+        db $00,$00,$03,$00,$60,$15          ;C45938 |
+        db $00,$00                          ;C4593E |
+        db $00,$00,$03,$00,$64,$15          ;C45940 |
+        db $00,$00                          ;C45946 |
+        db $00,$00,$03,$00,$68,$15          ;C45948 |
+        db $00,$00                          ;C4594E |
+        db $00,$00,$03,$00,$6C,$15          ;C45950 |
+        db $00,$00                          ;C45956 |
+        db $00,$00,$03,$00,$70,$15          ;C45958 |
+        db $00,$00                          ;C4595E |
+        db $00,$00,$03,$00,$74,$15          ;C45960 |
+        db $00,$00                          ;C45966 |
+        db $00,$00,$03,$00,$78,$15          ;C45968 |
+        db $00,$00                          ;C4596E |
+        db $00,$00,$03,$00,$7C,$15          ;C45970 |
+        db $00,$00                          ;C45976 |
+        db $00,$00,$03,$00,$80,$15,$AE,$B1  ;C45978 |
+        db $01,$00,$01,$00,$80,$15          ;C45980 |
+ 
+UNREACH_C45986:
+        db $00,$00                          ;C45986 |
+        db $00,$00,$00,$00,$4C,$16          ;C45988 |
+        db $00,$00                          ;C4598E |
+        db $00,$00,$03,$00,$50,$16          ;C45990 |
+        db $00,$00                          ;C45996 |
+        db $00,$00,$03,$00,$54,$16          ;C45998 |
+        db $00,$00                          ;C4599E |
+        db $00,$00,$03,$00,$58,$16,$25,$B0  ;C459A0 |
+        db $01,$00,$03,$00,$5C,$16          ;C459A8 |
+        db $00,$00                          ;C459AE |
+        db $00,$00,$03,$00,$60,$16          ;C459B0 |
+        db $00,$00                          ;C459B6 |
+        db $00,$00,$03,$00,$64,$16          ;C459B8 |
+        db $00,$00                          ;C459BE |
+        db $00,$00,$03,$00,$68,$16          ;C459C0 |
+        db $00,$00                          ;C459C6 |
+        db $00,$00,$FE,$FF                  ;C459C8 |
+ 
+UNREACH_C459CC:
+        db $00,$00                          ;C459CC |
+        db $00,$00,$00,$00,$6C,$16          ;C459CE |
+        db $00,$00                          ;C459D4 |
+        db $00,$00,$03,$00,$70,$16          ;C459D6 |
+        db $00,$00                          ;C459DC |
+        db $00,$00,$03,$00,$74,$16          ;C459DE |
+        db $00,$00                          ;C459E4 |
         db $00,$00,$03,$00,$78,$16,$25,$B0  ;C459E6 |
-        db $01,$00,$03,$00,$7C,$16,$00,$00  ;C459EE |
-        db $00,$00,$03,$00,$80,$16,$00,$00  ;C459F6 |
-        db $00,$00,$03,$00,$84,$16,$00,$00  ;C459FE |
-        db $00,$00,$03,$00,$88,$16,$00,$00  ;C45A06 |
-        db $00,$00,$FE,$FF,$00,$00,$00,$00  ;C45A0E |
-        db $04,$00,$A8,$16,$00,$00,$00,$00  ;C45A16 |
-        db $04,$00,$AC,$16,$00,$00,$00,$00  ;C45A1E |
-        db $04,$00,$B0,$16,$00,$00,$00,$00  ;C45A26 |
-        db $04,$00,$B4,$16,$00,$00,$00,$00  ;C45A2E |
-        db $04,$00,$B8,$16,$00,$00,$00,$00  ;C45A36 |
-        db $04,$00,$BC,$16,$00,$00,$00,$00  ;C45A3E |
-        db $04,$00,$C0,$16,$00,$00,$00,$00  ;C45A46 |
-        db $FE,$FF,$00,$00,$00,$00,$04,$00  ;C45A4E |
-        db $8C,$16,$00,$00,$00,$00,$04,$00  ;C45A56 |
-        db $90,$16,$00,$00,$00,$00,$04,$00  ;C45A5E |
-        db $94,$16,$00,$00,$00,$00,$04,$00  ;C45A66 |
-        db $98,$16,$00,$00,$00,$00,$04,$00  ;C45A6E |
-        db $9C,$16,$00,$00,$00,$00,$04,$00  ;C45A76 |
-        db $A0,$16,$00,$00,$00,$00,$04,$00  ;C45A7E |
-        db $A4,$16,$00,$00,$00,$00,$FE,$FF  ;C45A86 |
+        db $01,$00,$03,$00,$7C,$16          ;C459EE |
+        db $00,$00                          ;C459F4 |
+        db $00,$00,$03,$00,$80,$16          ;C459F6 |
+        db $00,$00                          ;C459FC |
+        db $00,$00,$03,$00,$84,$16          ;C459FE |
+        db $00,$00                          ;C45A04 |
+        db $00,$00,$03,$00,$88,$16          ;C45A06 |
+        db $00,$00                          ;C45A0C |
+        db $00,$00,$FE,$FF                  ;C45A0E |
+ 
+UNREACH_C45A12:
+        db $00,$00                          ;C45A12 |
+        db $00,$00,$04,$00,$A8,$16          ;C45A14 |
+        db $00,$00                          ;C45A1A |
+        db $00,$00,$04,$00,$AC,$16          ;C45A1C |
+        db $00,$00                          ;C45A22 |
+        db $00,$00,$04,$00,$B0,$16          ;C45A24 |
+        db $00,$00                          ;C45A2A |
+        db $00,$00,$04,$00,$B4,$16          ;C45A2C |
+        db $00,$00                          ;C45A32 |
+        db $00,$00,$04,$00,$B8,$16          ;C45A34 |
+        db $00,$00                          ;C45A3A |
+        db $00,$00,$04,$00,$BC,$16          ;C45A3C |
+        db $00,$00                          ;C45A42 |
+        db $00,$00,$04,$00,$C0,$16          ;C45A44 |
+        db $00,$00                          ;C45A4A |
+        db $00,$00,$FE,$FF                  ;C45A4C |
+ 
+UNREACH_C45A50:
+        db $00,$00                          ;C45A50 |
+        db $00,$00,$04,$00,$8C,$16          ;C45A52 |
+        db $00,$00                          ;C45A58 |
+        db $00,$00,$04,$00,$90,$16          ;C45A5A |
+        db $00,$00                          ;C45A60 |
+        db $00,$00,$04,$00,$94,$16          ;C45A62 |
+        db $00,$00                          ;C45A68 |
+        db $00,$00,$04,$00,$98,$16          ;C45A6A |
+        db $00,$00                          ;C45A70 |
+        db $00,$00,$04,$00,$9C,$16          ;C45A72 |
+        db $00,$00                          ;C45A78 |
+        db $00,$00,$04,$00,$A0,$16          ;C45A7A |
+        db $00,$00                          ;C45A80 |
+        db $00,$00,$04,$00,$A4,$16          ;C45A82 |
+        db $00,$00                          ;C45A88 |
+        db $00,$00,$FE,$FF                  ;C45A8A |
+ 
+UNREACH_C45A8E:
         db $00,$00                          ;C45A8E |
         db $00,$00,$00,$00,$C4,$16          ;C45A90 |
         db $00,$00                          ;C45A96 |
@@ -6532,6 +6933,8 @@ UNREACH_C41858:
         db $00,$00,$03,$00,$F8,$16          ;C45AF8 |
         db $00,$00                          ;C45AFE |
         db $00,$00,$FE,$FF                  ;C45B00 |
+ 
+UNREACH_C45B04:
         db $00,$00                          ;C45B04 |
         db $00,$00,$00,$00,$FC,$16          ;C45B06 |
         db $00,$00                          ;C45B0C |
@@ -6561,6 +6964,8 @@ UNREACH_C41858:
         db $00,$00,$03,$00,$30,$17          ;C45B6E |
         db $00,$00                          ;C45B74 |
         db $00,$00,$FE,$FF                  ;C45B76 |
+ 
+UNREACH_C45B7A:
         db $00,$00                          ;C45B7A |
         db $00,$00,$03,$00,$34,$17,$6B,$B0  ;C45B7C |
         db $01,$00,$03,$00,$38,$17          ;C45B84 |
@@ -6846,6 +7251,8 @@ UNREACH_C41858:
         db $00,$00,$03,$00,$64,$17          ;C46044 |
         db $00,$00                          ;C4604A |
         db $00,$00,$FE,$FF                  ;C4604C |
+ 
+UNREACH_C46050:
         db $00,$00                          ;C46050 |
         db $00,$00,$03,$00,$4C,$17,$6B,$B0  ;C46052 |
         db $01,$00,$03,$00,$50,$17          ;C4605A |
@@ -7131,6 +7538,8 @@ UNREACH_C41858:
         db $00,$00,$03,$00,$84,$17          ;C4651A |
         db $00,$00                          ;C46520 |
         db $00,$00,$FE,$FF                  ;C46522 |
+ 
+UNREACH_C46526:
         db $00,$00                          ;C46526 |
         db $00,$00,$08,$00,$2C,$18          ;C46528 |
         db $00,$00                          ;C4652E |
@@ -7149,10 +7558,14 @@ UNREACH_C41858:
         db $00,$00,$08,$00,$48,$18          ;C46560 |
         db $00,$00                          ;C46566 |
         db $00,$00,$FE,$FF                  ;C46568 |
+ 
+UNREACH_C4656C:
         db $00,$00                          ;C4656C |
         db $00,$00,$FF,$00,$A4,$0E          ;C4656E |
         db $00,$00                          ;C46574 |
         db $00,$00,$FE,$FF                  ;C46576 |
+ 
+UNREACH_C4657A:
         db $00,$00                          ;C4657A |
         db $00,$00,$FF,$00,$4C,$18          ;C4657C |
         db $00,$00                          ;C46582 |
