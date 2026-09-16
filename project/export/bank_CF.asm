@@ -8255,7 +8255,7 @@ DATA8_CFF940:
         db $15,$03,$FC,$03,$FE,$01,$EF,$18  ;CFFE58 |
         db $FF,$10                          ;CFFE60 |
  
-UNREACH_CFFE62:
+DATA8_CFFE62:
         db $01,$08,$02,$00,$00,$0A,$10,$02  ;CFFE62 |
         db $7A,$7B,$8A,$83,$72,$80,$6A,$81  ;CFFE6A |
         db $62,$81,$5A,$81,$98,$7B,$8A,$7B  ;CFFE72 |
@@ -8307,4 +8307,5 @@ UNREACH_CFFE62:
         db $3C,$F8,$77,$F7,$03,$FF,$C0,$3F  ;CFFFE2 |
         db $38,$CF,$F0,$00,$40,$80,$C0,$40  ;CFFFEA |
         db $7C,$FC,$0B,$07,$00,$01,$00,$00  ;CFFFF2 |
-        db $F0,$00,$02,$00,$00,$00          ;CFFFFA |
+        db $F0,$00                          ;CFFFFA |
+        db $02,$00,$00,$00                  ;CFFFFC |

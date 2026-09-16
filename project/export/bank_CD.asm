@@ -8152,7 +8152,7 @@ DATA8_CDF59E:
         db $80,$00,$00,$00,$00,$00,$00,$00  ;CDFBDE |
         db $C0,$00,$C8,$E0,$E8,$F0          ;CDFBE6 |
  
-UNREACH_CDFBEC:
+DATA8_CDFBEC:
         db $03,$0A,$06,$09,$16,$1F,$00,$00  ;CDFBEC |
         db $66,$7B,$82,$77,$57,$58,$6D,$73  ;CDFBF4 |
         db $66,$73,$59,$48,$83,$87,$8B,$87  ;CDFBFC |
